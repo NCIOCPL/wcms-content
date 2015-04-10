@@ -1,5 +1,4 @@
 /researchandfunding/MERIT,/researchandfunding/nci-role/spotlight/merit
-/researchandfunding/MERIT/2012/kinzler,/researchandfunding/nci-role/spotlight/merit/kinzler
 /researchandfunding/MERIT/berk,/researchandfunding/nci-role/spotlight/merit/berk
 /researchandfunding/MERIT/bigner,/researchandfunding/nci-role/spotlight/merit/binger
 /researchandfunding/MERIT/Bissell,/researchandfunding/nci-role/spotlight/merit/bissell
