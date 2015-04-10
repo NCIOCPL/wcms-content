@@ -16,3 +16,6 @@ in the RedirectionList.txt it will look like this:
 /researchandfunding/MERIT/2012/kinzler, /researchandfunding/nci-role/spotlight/merit/kinzler
 
 The excel sheet RedirectionList.txt should be converted to a csv file and renamed to "RedirectionList.txt"
+
+
+http://www.cancer.gov/PublishedContent/files/configuration/redirectionlist.txt
