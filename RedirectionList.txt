@@ -92,6 +92,7 @@
 /cancertopics/druginfo/cervicalcancer,/cancertopics/treatment/drugs/cervical
 /cancertopics/druginfo/colorectalcancer,/cancertopics/treatment/drugs/colorectal
 /cancertopics/druginfo/endometrialcancer,/cancertopics/treatment/drugs/endometrial
+/cancertopics/druginfo/esophagealcancer,/cancertopics/treatment/drugs/esophageal
 /cancertopics/druginfo/gestationaldisease,/cancertopics/treatment/drugs/gestationaldisease
 /cancertopics/druginfo/GIST,/cancertopics/treatment/drugs/gist
 /cancertopics/druginfo/head-and-neck-cancer,/cancertopics/treatment/drugs/head-neck
