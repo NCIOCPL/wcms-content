@@ -218,3 +218,10 @@
 /cancertopics/druginfo/fda-vismodegib,/cancertopics/treatment/drugs/fda-vismodegib
 /cancertopics/druginfo/fda-vorinostat,/cancertopics/treatment/drugs/fda-vorinostat
 /cancertopics/druginfo/fda-ziv-aflibercept,/cancertopics/treatment/drugs/fda-ziv-aflibercept
+/espanol/instituto/salud-mundial,/espanol/instituto/organizacion/salud-mundial
+/espanol/instituto/salud-mundial/acerca-de-cgh,/espanol/instituto/organizacion/salud-mundial/acerca-de-cgh
+/espanol/instituto/salud-mundial/acerca-de-cgh/que-hacemos,/espanol/instituto/organizacion/salud-mundial/acerca-de-cgh/que-hacemos
+/espanol/instituto/salud-mundial/programas-iniciativas-de-investigacion,/espanol/instituto/organizacion/salud-mundial/programas-iniciativas-de-investigacion
+/espanol/instituto/salud-mundial/blog-de-cgh,/espanol/instituto/organizacion/salud-mundial/blog-de-cgh
+/espanol/instituto/salud-mundial/blog-de-cgh/2015/dia-mundial-contra-el-cancer-2015,/espanol/instituto/organizacion/salud-mundial/blog-de-cgh/2015/dia-mundial-contra-el-cancer-2015
+/espanol/instituto/salud-mundial/blog-de-cgh/2015/mexico-nci-DrVarmus,/espanol/instituto/organizacion/salud-mundial/blog-de-cgh/2015/mexico-nci-varmus
