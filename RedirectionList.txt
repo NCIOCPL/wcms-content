@@ -233,3 +233,6 @@
 /cancertopics/research/_l9xoqAUE-I,/cancertopics/causes-prevention/risk/obesity/_l9xoqAUE-I
 /cancertopics/screening/colon-and-rectal/colorectal-screening-cdc-psa,/cancertopics/types/colorectal/colorectal-screening-cdc-psa
 /cancertopics/coping/navigators,/cancertopics/managing-care/navigators
+/cancertopics/coping/familyfriends/deepwater-video,/cancertopics/coping/family-friends/adjusting-to-being-a-caregiver/deepwater-video
+/cancertopics/videos/health-info-online,/cancertopics/managing-care/using-trusted-resources/health-info-online
+/global/contact/videos/cancer-information-service,/contact/videos/cancer-information-service
