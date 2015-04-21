@@ -225,5 +225,11 @@
 /espanol/instituto/salud-mundial/blog-de-cgh,/espanol/instituto/organizacion/salud-mundial/blog-de-cgh
 /espanol/instituto/salud-mundial/blog-de-cgh/2015/dia-mundial-contra-el-cancer-2015,/espanol/instituto/organizacion/salud-mundial/blog-de-cgh/2015/dia-mundial-contra-el-cancer-2015
 /espanol/instituto/salud-mundial/blog-de-cgh/2015/mexico-nci-DrVarmus,/espanol/instituto/organizacion/salud-mundial/blog-de-cgh/2015/mexico-nci-varmus
-/espanol/recursos/videos ,/espanol/multimedia
+/espanol/recursos/videos,/espanol/multimedia
 /espanol/recursos/videos/carousel213648,/espanol/multimedia/carousel213648 
+/clinicaltrials/precision-medicine-lung-cancer-video,/researchandfunding/areas/clinical-trials/nctn/precision-medicine-lung-cancer-video
+/statistics/did-you-know-bladder-cancer-video,/cancertopics/types/bladder/did-you-know-bladder-cancer-video
+/statistics/did-you-know-melanoma-cancer-2014-video,/cancertopics/types/skin/did-you-know-melanoma-cancer-2014-video
+/cancertopics/research/_l9xoqAUE-I,/cancertopics/causes-prevention/risk/obesity/_l9xoqAUE-I
+/cancertopics/screening/colon-and-rectal/colorectal-screening-cdc-psa,/cancertopics/types/colorectal/colorectal-screening-cdc-psa
+/cancertopics/coping/navigators,/cancertopics/managing-care/navigators
