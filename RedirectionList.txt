@@ -245,3 +245,7 @@
 /statistics/did-you-know-status-cancer-video,/cancertopics/what-is-cancer/key-statistics/did-you-know-status-cancer-video
 /statistics/did-you-know-liver-cancer-2014-video,/cancertopics/types/liver/did-you-know-liver-cancer-2014-video
 /statistics/did-you-know-pancreatic-cancer-video,/cancertopics/types/pancreatic/did-you-know-pancreatic-cancer-video
+/cancertopics/screening/colon-and-rectal/colorectal-screening-video,/cancertopics/types/colorectal/colorectal-screening-video
+/videos/plan-2016/louis-staudt-video,/aboutnci/budget_planning_leg/plan-2016/louis-staudt-video
+/cancertopics/cam/cam-video,/cancertopics/treatment/cam/cam-video
+/researchandfunding/videos/biospecimens,/researchandfunding/resources/biospecimens-video
