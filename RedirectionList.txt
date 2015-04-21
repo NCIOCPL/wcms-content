@@ -242,7 +242,6 @@
 /statistics/did-you-know-breast-2014-video,/cancertopics/types/breast/did-you-know-breast-2014-video
 /statistics/did-you-know-cervical-cancer-video,/cancertopics/types/cervical/did-you-know-cervical-cancer-video
 /statistics/did-you-know-colorectal-cancer-screening-video,/cancertopics/types/colorectal/did-you-know-colorectal-cancer-screening-video
-/statistics/did-you-know-melanoma-cancer-2014-video,/cancertopics/types/skin/did-you-know-melanoma-cancer-2014-video
 /statistics/did-you-know-status-cancer-video,/cancertopics/what-is-cancer/key-statistics/did-you-know-status-cancer-video
 /statistics/did-you-know-liver-cancer-2014-video,/cancertopics/types/liver/did-you-know-liver-cancer-2014-video
 /statistics/did-you-know-pancreatic-cancer-video,/cancertopics/types/pancreatic/did-you-know-pancreatic-cancer-video
