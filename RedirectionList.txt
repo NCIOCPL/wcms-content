@@ -257,3 +257,4 @@
 /videos/2012-bypass/pediatric-cancers,/multimedia/videos/2012-bypass/pediatric-cancers
 /videos/2012-bypass/revitalizing-clinical-trials,/multimedia/videos/2012-bypass/revitalizing-clinical-trials
 /videos/2012-bypass/revitalizing-clinical-trials-community,/multimedia/videos/2012-bypass/revitalizing-clinical-trials-community
+/videos/statistics/did-you-know-cancer-survivorship-statistics-video,/cancertopics/coping/survivorship/did-you-know-cancer-survivorship-statistics-video
