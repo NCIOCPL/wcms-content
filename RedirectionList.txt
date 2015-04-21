@@ -225,3 +225,5 @@
 /espanol/instituto/salud-mundial/blog-de-cgh,/espanol/instituto/organizacion/salud-mundial/blog-de-cgh
 /espanol/instituto/salud-mundial/blog-de-cgh/2015/dia-mundial-contra-el-cancer-2015,/espanol/instituto/organizacion/salud-mundial/blog-de-cgh/2015/dia-mundial-contra-el-cancer-2015
 /espanol/instituto/salud-mundial/blog-de-cgh/2015/mexico-nci-DrVarmus,/espanol/instituto/organizacion/salud-mundial/blog-de-cgh/2015/mexico-nci-varmus
+/espanol/recursos/videos ,/espanol/multimedia
+/espanol/recursos/videos/carousel213648,/espanol/multimedia/carousel213648 
