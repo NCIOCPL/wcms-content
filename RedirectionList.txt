@@ -361,3 +361,6 @@
 /espanol/noticias/transcript-nuevo-sitio,/espanol/noticias/2013/transcript-nuevo-sitio
 /espanol/noticias/Varmus12deJulio,/espanol/noticias/2010/Varmus12deJulio
 /espanol/noticias/XMRVrecombinationSpan,/espanol/noticias/2011/XMRVrecombinationSpan
+/espanol/cancer/como-contribuir-a-la-investigacion-medica,/espanol/instituto/general/como-contribuir-a-la-investigacion-medica
+/espanol/instituto/toma-decisiones-medicas,/espanol/instituto/general/toma-decisiones-medicas
+/espanol/cancer/como-contribuir-a-la-investigacion-medica/como-contribuir-a-la-investigacion-medica.pdf,/espanol/instituto/general/como-contribuir-a-la-investigacion-medica/como-contribuir-a-la-investigacion-medica.pdf
