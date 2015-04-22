@@ -1,1 +1,1 @@
-/global/web/sitehelp	/about-website
+/global/web/sitehelp,/about-website
