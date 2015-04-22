@@ -389,7 +389,7 @@
 /cancertopics/research/preserving-fertility-while-battling-cancer,/cancertopics/treatment/research/fertility-preservation
 /cancertopics/research/overcoming-age-limits-in-cancer-clinical-trials,/cancertopics/treatment/research/age-limits-clinical-trials
 /cancertopics/research/overcoming-bottlenecks-in-clinical-communication,/cancertopics/treatment/research/talking-about-clinical-trials
-/cancertopics/research/obesity-and-cancer-risk,/cancertopics/treatment/research/nutrition-during-after treatment
+/cancertopics/research/obesity-and-cancer-risk,/cancertopics/causes-prevention/research/obesity-and-cancer-risk
 /cancertopics/research/aiding-cancer-caregivers,/cancertopics/coping/research/aiding-cancer-caregivers
 /cancertopics/research/cancer-survivorship-plans-slow-to-take-hold,/cancertopics/coping/research/survivorship-plans
 /cancertopics/research/follow-up-for-long-term-survivors,/cancertopics/coping/research/follow-up-for-long-term-survivors
@@ -406,7 +406,7 @@
 /cancertopics/research/cell-phone-use_QandA,/cancertopics/causes-prevention/research/linet-cell-phone-use
 /cancertopics/research/diet-and-cancer-QandA,/cancertopics/causes-prevention/research/diet-and-cancer
 /cancertopics/research/hpv-vaccines-prove-effective,/cancertopics/causes-prevention/research/hpv-vaccines-effective
-/cancertopics/research/observation-for-men-with-prostate-cancer,/cancertopics/causes-prevention/research/obesity-and-cancer-risk
+/cancertopics/research/observation-for-men-with-prostate-cancer,/cancertopics/types/prostate/research/pivot-trial-results
 /cancertopics/research/reducing-radiation-exposure,/cancertopics/causes-prevention/research/reducing-radiation-exposure
 /cancertopics/research-updates/2014/aspirin,/cancertopics/causes-prevention/research/aspirin
 /global/web/sitehelp,/about-website
