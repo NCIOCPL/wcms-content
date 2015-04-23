@@ -411,3 +411,4 @@
 /cancertopics/research-updates/2014/aspirin,/cancertopics/causes-prevention/research/aspirin
 /global/web/sitehelp,/about-website
 /cancertopics/research-updates/2013/dietrecs,/cancertopics/treatment/research/nutrition-during-after-treatment
+/cancertopics/research/downside-of-diagnostic-imaging,/cancertopics/diagnosis-staging/research/downside-diagnostic-imaging
