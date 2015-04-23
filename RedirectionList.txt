@@ -587,3 +587,12 @@
 /espanol/cancer/guia-estudios-clinicos/seguridad-paciente/revision-cientifica,/espanol/cancer/tratamiento/estudios-clinicos/seguridad-paciente/revision-cientifica
 /espanol/cancer/guia-estudios-clinicos/seguridad-paciente/terminacion-estudio,/espanol/cancer/tratamiento/estudios-clinicos/seguridad-paciente/terminacion-estudio
 /cancertopics/druginfo/fda-blinatumomab,/cancertopics/treatment/drugs/fda-blinatumomab
+/espanol/global/politicas,/espanol/politicas
+/espanol/global/politicas/accesibilidad,/espanol/politicas/accesibilidad
+/espanol/global/politicas/comentarios,/espanol/politicas/comentarios
+/espanol/global/politicas/confidencialidad,/espanol/politicas/confidencialidad-seguridad
+/espanol/global/politicas/derechos-de-autor,/espanol/politicas/derechos-de-autor-y-uso
+/espanol/global/politicas/enlaces,/espanol/politicas/enlaces
+/espanol/global/politicas/exoneracion,/espanol/politicas/exoneracion
+/espanol/global/politicas/foia,/espanol/politicas/foia
+/espanol/global/politicas/salida,/espanol/politicas/salida
