@@ -586,3 +586,4 @@
 /espanol/cancer/guia-estudios-clinicos/seguridad-paciente/consentimiento,/espanol/cancer/tratamiento/estudios-clinicos/seguridad-paciente/consentimiento
 /espanol/cancer/guia-estudios-clinicos/seguridad-paciente/revision-cientifica,/espanol/cancer/tratamiento/estudios-clinicos/seguridad-paciente/revision-cientifica
 /espanol/cancer/guia-estudios-clinicos/seguridad-paciente/terminacion-estudio,/espanol/cancer/tratamiento/estudios-clinicos/seguridad-paciente/terminacion-estudio
+/cancertopics/druginfo/fda-blinatumomab,/cancertopics/treatment/drugs/fda-blinatumomab
