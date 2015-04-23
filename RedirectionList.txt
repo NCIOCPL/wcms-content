@@ -412,3 +412,6 @@
 /global/web/sitehelp,/about-website
 /cancertopics/research-updates/2013/dietrecs,/cancertopics/treatment/research/nutrition-during-after-treatment
 /cancertopics/research/downside-of-diagnostic-imaging,/cancertopics/diagnosis-staging/research/downside-diagnostic-imaging
+/cancertopics/research/many-survivors-of-aya-cancers-have-chronic-health-problems,/cancertopics/types/aya/chronic-health-problems-aya-survivors
+/cancertopics/research/psychosocial-challenges-of-cancer,/cancertopics/types/aya/psychosocial-challenges-cancer
+/cancertopics/research/clinical-trials-offer-path-to-better-care-for-ayas,/cancertopics/types/aya/clinical-trials-better-care-for-ayas
