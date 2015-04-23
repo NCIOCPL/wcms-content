@@ -435,3 +435,12 @@
 /espanol/cancer/deteccion/significado-cambios-en-cuello-uterino/vacuna-vph,/espanol/tipos/cuello-uterino/significado-cambios-en-cuello-uterino
 /espanol/cancer/deteccion/significado-cambios-en-cuello-uterino/vph,/espanol/tipos/cuello-uterino/significado-cambios-en-cuello-uterino
 /espanol/cancer/deteccion/significado-cambios-en-cuello-uterino,/espanol/tipos/cuello-uterino/significado-cambios-en-cuello-uterino
+/clinicaltrials/results/summary/2007/hpv-vaccine0707,/cancertopics/types/cervical/research/cervarix-prevents-hpv
+/clinicaltrials/results/summary/2007/preop-chemo-gastric0707,/cancertopics/types/stomach/research/preop-chemo
+/clinicaltrials/results/summary/2008/zoledronic-acid0608,/cancertopics/types/breast/research/zeledronic-acid-improves-treatment
+/clinicaltrials/results/summary/2009/gemcitabine_cervical0609,/cancertopics/types/cervical/research/gemcitabine-improves-survival
+/clinicaltrials/results/summary/2009/nilotinib-cml1209,/cancertopics/types/leukemia/research/nilotinib-cml
+/clinicaltrials/results/summary/2010/combochemo-NSCLC0610,/cancertopics/types/lung/research/combo-chemo-helps-elderly
+/clinicaltrials/results/summary/2010/end-of-life-video0110,/cancertopics/types/brain/research/video-helps-end-of-life-discussions
+/clinicaltrials/results/summary/2010/neoadjuvant-trastuzumab0310,/cancertopics/types/breast/research/trastuzumab-locally-advanced-inflammatory 
+/clinicaltrials/results/summary/2010/zoledronic-acid-breast1210,/cancertopics/types/breast/research/no-dfs-zoledronic-acid
