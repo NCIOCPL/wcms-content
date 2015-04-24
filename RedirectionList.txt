@@ -607,3 +607,6 @@
 /cancertopics/screening/understanding-breast-changes/resources,/cancertopics/types/breast/understanding-breast-changes
 /cancertopics/screening/understanding-breast-changes/support,/cancertopics/types/breast/understanding-breast-changes
 /cancertopics/screening/understanding-breast-changes/test-results,/cancertopics/types/breast/understanding-breast-changes
+/researchandfunding/areas/clinical-trials/alchemist,/researchandfunding/areas/clinical-trials/nctn/alchemist
+/researchandfunding/areas/clinical-trials/lung-map,/researchandfunding/areas/clinical-trials/nctn/lung-map
+/researchandfunding/areas/clinical-trials/match,/researchandfunding/areas/clinical-trials/nctn/match
