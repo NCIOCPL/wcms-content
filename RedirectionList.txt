@@ -596,3 +596,14 @@
 /espanol/global/politicas/exoneracion,/espanol/politicas/exoneracion
 /espanol/global/politicas/foia,/espanol/politicas/foia
 /espanol/global/politicas/salida,/espanol/politicas/salida
+/cancertopics/screening/understanding-breast-changes,/cancertopics/types/breast/understanding-breast-changes
+/cancertopics/screening/understanding-breast-changes/basics,/cancertopics/types/breast/understanding-breast-changes
+/cancertopics/screening/understanding-breast-changes/breast-changes,/cancertopics/types/breast/understanding-breast-changes
+/cancertopics/screening/understanding-breast-changes/finding-changes,/cancertopics/types/breast/understanding-breast-changes
+/cancertopics/screening/understanding-breast-changes/follow-up-care,/cancertopics/types/breast/understanding-breast-changes
+/cancertopics/screening/understanding-breast-changes/follow-up-tests,/cancertopics/types/breast/understanding-breast-changes
+/cancertopics/screening/understanding-breast-changes/lifetime-changes,/cancertopics/types/breast/understanding-breast-changes
+/cancertopics/screening/understanding-breast-changes/mammogram,/cancertopics/types/breast/understanding-breast-changes
+/cancertopics/screening/understanding-breast-changes/resources,/cancertopics/types/breast/understanding-breast-changes
+/cancertopics/screening/understanding-breast-changes/support,/cancertopics/types/breast/understanding-breast-changes
+/cancertopics/screening/understanding-breast-changes/test-results,/cancertopics/types/breast/understanding-breast-changes
