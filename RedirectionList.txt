@@ -611,3 +611,5 @@
 /researchandfunding/areas/clinical-trials/lung-map,/researchandfunding/areas/clinical-trials/nctn/lung-map
 /researchandfunding/areas/clinical-trials/match,/researchandfunding/areas/clinical-trials/nctn/match
 /espanol/global/mapa-sitio,/espanol/acerca-sitio/mapa-sitio
+/espanol/global/widgets/diccionario,/espanol/sindicacion/widgets
+/espanol/global/RSS,/espanol/sindicacion/rss
