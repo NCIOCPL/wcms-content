@@ -613,3 +613,4 @@
 /espanol/global/mapa-sitio,/espanol/acerca-sitio/mapa-sitio
 /espanol/global/widgets/diccionario,/espanol/sindicacion/widgets
 /espanol/global/RSS,/espanol/sindicacion/rss
+/espanol/cancer/estudios-clinicos/programas-del-nci,/espanol/investigacion/areas/estudios-clinicos
