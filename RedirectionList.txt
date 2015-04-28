@@ -646,7 +646,7 @@
 /researchandfunding/areas/clinical-trials/lung-map/dr-david-gandara-lung-map-trial,/researchandfunding/areas/clinical-trials/nctn/dr-david-gandara-lung-map-trial
 /espanol/cancer/lineas-vitales/colorrectal,/espanol/noticias/lineas-vitales/colorrectal
 /espanol/cancer/lineas-vitales/colorrectal/colorrectal-video,/espanol/noticias/lineas-vitales/colorrectal/colorrectal-video
-/espanol/cancer/lineas-vitales/colorrectal/Examenes-de-deteccion-del-cancer-colorrectal-para-los-hispanos.pdf,/espanol/noticias/lineas-vitales/colorrectal/colorrectal-video/Examenes-de-deteccion-del-cancer-colorrectal-para-los-hispanos.pdf
+/espanol/cancer/lineas-vitales/colorrectal/Examenes-de-deteccion-del-cancer-colorrectal-para-los-hispanos.pdf,/espanol/noticias/lineas-vitales/colorrectal/Examenes-de-deteccion-del-cancer-colorrectal-para-los-hispanos.pdf
 /espanol/cancer/lineas-vitales/cuello-uterino,/espanol/noticias/lineas-vitales/cuello-uterino
 /espanol/cancer/lineas-vitales/cuello-uterino/lineas-vitales-cervix,/espanol/noticias/lineas-vitales/cuello-uterino/lineas-vitales-cervix
 /espanol/cancer/lineas-vitales/cuidado-tratamiento,/espanol/noticias/lineas-vitales/cuidado-tratamiento
