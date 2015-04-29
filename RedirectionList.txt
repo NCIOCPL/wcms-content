@@ -767,3 +767,5 @@
 /cancertopics/understanding-cervical-changes/understanding-cervical-changes.mobi,/cancertopics/types/cervical/understanding-cervical-changes/understanding-cervical-changes.mobi
 /espanol/cancer/sobrellevar/caregiver-spanish.epub,/espanol/cancer/sobrellevar/familia-y-amigos/caregiver-spanish.epub
 /espanol/cancer/sobrellevar/caregiver-spanish.mobi,/espanol/cancer/sobrellevar/familia-y-amigos/caregiver-spanish.mobi
+/espanol/tipos/comunes-hispanos,/espanol/tipos/comunes
+/espanol/tipos/comunes-general,/espanol/tipos/comunes
