@@ -774,3 +774,4 @@
 /espanol/noticias/VirtualColonoscopyQA,/espanol/tipos/colorrectal/investigacion/colografia-tomografia-computarizada-respuestas
 /espanol/noticias/2012/PLCOscreeningQandASpanish,/espanol/tipos/prostata/investigacion/resultados-deteccion-plco-respuestas
 /espanol/noticias/SELECTQandA,/espanol/tipos/prostata/investigacion/resultados-select-respuestas
+/cancertopics/treatment/types-of-treatment,/cancertopics/treatment/types/
