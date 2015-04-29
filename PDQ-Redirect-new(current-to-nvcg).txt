@@ -77,11 +77,6 @@
 /cancertopics/pdq/cam/aromatherapy/patient/page7,/about-cancer/treatment/cam/patient/aromatherapy-pdq#section/all
 /cancertopics/pdq/cam/aromatherapy/patient/page8,/about-cancer/treatment/cam/patient/aromatherapy-pdq#section/all
 /cancertopics/pdq/cam/aromatherapy/patient/page9,/about-cancer/treatment/cam/patient/aromatherapy-pdq#section/all
-/cancertopics/pdq/cam/cam-cancer-treatment/patient,NULL
-/cancertopics/pdq/cam/cam-cancer-treatment/patient/page1,NULL
-/cancertopics/pdq/cam/cam-cancer-treatment/patient/page2,NULL
-/cancertopics/pdq/cam/cam-cancer-treatment/patient/page3,NULL
-/cancertopics/pdq/cam/cam-cancer-treatment/patient/page4,NULL
 /cancertopics/pdq/cam/cancell/HealthProfessional,/about-cancer/treatment/cam/hp/cancell-pdq
 /cancertopics/pdq/cam/cancell/HealthProfessional/page1,/about-cancer/treatment/cam/hp/cancell-pdq#section/all
 /cancertopics/pdq/cam/cancell/HealthProfessional/page2,/about-cancer/treatment/cam/hp/cancell-pdq#section/all
@@ -4644,11 +4639,6 @@
 /espanol/pdq/grados-de-comprobacion-medicina-complementaria/Healthprofessional/page4,/espanol/publicaciones/pdq/grados-comprobacion/cam#section/all
 /espanol/pdq/grados-de-comprobacion-medicina-complementaria/Healthprofessional/page5,/espanol/publicaciones/pdq/grados-comprobacion/cam#section/all
 /espanol/pdq/grados-de-comprobacion-medicina-complementaria/Healthprofessional/page6,/espanol/publicaciones/pdq/grados-comprobacion/cam#section/all
-/espanol/pdq/mca/mca-cancer-tratamiento/patient,NULL
-/espanol/pdq/mca/mca-cancer-tratamiento/patient/page1,NULL
-/espanol/pdq/mca/mca-cancer-tratamiento/patient/page2,NULL
-/espanol/pdq/mca/mca-cancer-tratamiento/patient/page3,NULL
-/espanol/pdq/mca/mca-cancer-tratamiento/patient/page4,NULL
 /espanol/pdq/medicina-complementaria-alternativa/acupuntura/HealthProfessional,/espanol/cancer/tratamiento/cam/pro/acupuntura-pdq
 /espanol/pdq/medicina-complementaria-alternativa/acupuntura/HealthProfessional/page1,/espanol/cancer/tratamiento/cam/pro/acupuntura-pdq#section/all
 /espanol/pdq/medicina-complementaria-alternativa/acupuntura/HealthProfessional/page2,/espanol/cancer/tratamiento/cam/pro/acupuntura-pdq#section/all
