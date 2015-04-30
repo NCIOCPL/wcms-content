@@ -783,3 +783,15 @@
 /cancertopics/aya/treatment/AYA-fertility,/cancertopics/aya/AYA-fertility
 /cancertopics/aya/diagnosis/after-diagnosis,/cancertopics/aya/after-diagnosis
 /cancertopics/aya/types/quiz,/cancertopics/aya/quiz
+/espanol/pdq/deteccion-prevencion-consejoeditorial,/espanol/publicaciones/pdq/consejo-deteccion-prevencion
+/espanol/pdq/medicina-complementaria-alternativa-consejo-editorial,/espanol/publicaciones/pdq/consejo-medicina-complementaria-alternativa
+/espanol/pdq/consejo-cuidados-medicos-de-apoyo,/espanol/publicaciones/pdq/consejo-cuidados-medicos-de-apoyo
+/espanol/pdq/consenjo-tratamientos-adultos,/espanol/publicaciones/pdq/consenjo-tratamientos-adultos
+/espanol/pdq/consejo-tratamientos-pediatricos,/espanol/publicaciones/pdq/consejo-tratamientos-pediatricos
+/espanol/recursos/pdq,/espanol/publicaciones/pdq
+/espanol/pdq/cuidadosdeapoyo,/espanol/publicaciones/pdq/cuidados-de-apoyo
+/espanol/pdq/deteccion,/espanol/publicaciones/pdq/deteccion
+/espanol/pdq/medicina-complementaria-alternativa,/espanol/publicaciones/pdq/medicina-complementaria-alternativa
+/espanol/pdq/prevencion,/espanol/publicaciones/pdq/prevencion
+/espanol/pdq/tratamiento,/espanol/publicaciones/pdq/tratamiento
+/espanol/pdq/tratamientopediatrico,/espanol/publicaciones/pdq/tratamiento-pediatrico
