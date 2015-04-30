@@ -776,3 +776,6 @@
 /espanol/noticias/SELECTQandA ,/tipos/prostata/investigacion/resultados-select-respuestas
 /cancertopics/treatment/types-of-treatment,/cancertopics/treatment/types/
 /espanol/cancer/tratamiento/tipos-de-tratamiento,/espanol/cancer/tratamiento/tipos
+/cancertopics/coping/physicaleffects/,/cancertopics/treatment/side-effects
+/cancertopics/coping/physicaleffects/audiofiles,/cancertopics/treatment/side-effects
+/cancertopics/coping/physicaleffects/chemo-side-effects,/cancertopics/treatment/side-effects
