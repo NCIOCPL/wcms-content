@@ -795,3 +795,4 @@
 /espanol/pdq/prevencion,/espanol/publicaciones/pdq/prevencion
 /espanol/pdq/tratamiento,/espanol/publicaciones/pdq/tratamiento
 /espanol/pdq/tratamientopediatrico,/espanol/publicaciones/pdq/tratamiento-pediatrico
+/espanol/recursos/preguntas/cancer-avanzado,/espanol/cancer/cancer-avanzado/preguntas
