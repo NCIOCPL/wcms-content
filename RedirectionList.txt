@@ -779,3 +779,6 @@
 /cancertopics/coping/physicaleffects/,/cancertopics/treatment/side-effects
 /cancertopics/coping/physicaleffects/audiofiles,/cancertopics/treatment/side-effects
 /cancertopics/coping/physicaleffects/chemo-side-effects,/cancertopics/treatment/side-effects
+/cancertopics/aya/types/overview-video,/cancertopics/aya/overview-video
+/cancertopics/aya/treatment/AYA-fertility,/cancertopics/aya/AYA-fertility
+/cancertopics/aya/diagnosis/after-diagnosis,/cancertopics/aya/after-diagnosis
