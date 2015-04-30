@@ -797,3 +797,11 @@
 /espanol/pdq/tratamientopediatrico,/espanol/publicaciones/pdq/tratamiento-pediatrico
 /espanol/recursos/preguntas/cancer-avanzado,/espanol/cancer/cancer-avanzado/preguntas
 /espanol/cancer/genetica,/espanol/cancer/causas-prevencion/genetica
+/espanol/cancer/tabaco,/espanol/cancer/causas-prevencion/riesgo/tabaco
+/cancertopics/tobacco/smokeless-tobacco,/cancertopics/causes-prevention/risk/tobacco
+/cancertopics/tobacco/smoking,/cancertopics/causes-prevention/risk/tobacco
+/cancertopics/tobacco/smoking/information,/cancertopics/causes-prevention/risk/tobacco
+/cancertopics/tobacco/smoking/quitting,/cancertopics/causes-prevention/risk/tobacco
+/cancertopics/tobacco/smoking/tobacco-research,/cancertopics/causes-prevention/risk/tobacco
+/cancertopics/tobacco/statisticsresources,/cancertopics/causes-prevention/risk/tobacco
+/cancertopics/tobacco/statisticssnapshot,/cancertopics/causes-prevention/risk/tobacco
