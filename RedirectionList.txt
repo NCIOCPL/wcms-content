@@ -782,3 +782,4 @@
 /cancertopics/aya/types/overview-video,/cancertopics/aya/overview-video
 /cancertopics/aya/treatment/AYA-fertility,/cancertopics/aya/AYA-fertility
 /cancertopics/aya/diagnosis/after-diagnosis,/cancertopics/aya/after-diagnosis
+/cancertopics/aya/types/quiz,/cancertopics/aya/quiz
