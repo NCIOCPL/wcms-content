@@ -769,9 +769,10 @@
 /espanol/cancer/sobrellevar/caregiver-spanish.mobi,/espanol/cancer/sobrellevar/familia-y-amigos/caregiver-spanish.mobi
 /espanol/tipos/comunes-hispanos,/espanol/tipos/comunes
 /espanol/tipos/comunes-general,/espanol/tipos/comunes
-/espanol/noticias/estudio-clinico-STAR-respuestas,/espanol/tipos/seno/investigacion/resultados-star-respuestas
-/espanol/noticias/2010/nlstQandASpanish,/espanol/tipos/pulmon/investigacion/nlst-respuestas
-/espanol/noticias/VirtualColonoscopyQA,/espanol/tipos/colorrectal/investigacion/colografia-tomografia-computarizada-respuestas
-/espanol/noticias/2012/PLCOscreeningQandASpanish,/espanol/tipos/prostata/investigacion/resultados-deteccion-plco-respuestas
-/espanol/noticias/SELECTQandA,/espanol/tipos/prostata/investigacion/resultados-select-respuestas
+/espanol/noticias/estudio-clinico-STAR-respuestas,/tipos/seno/investigacion/resultados-star-respuestas
+/espanol/noticias/2010/nlstQandASpanish,/tipos/pulmon/investigacion/nlst-respuestas
+/espanol/noticias/VirtualColonoscopyQA,/tipos/colorrectal/investigacion/colografia-tomografia-computarizada-respuestas
+/espanol/noticias/2012/PLCOscreeningQandASpanish,/tipos/prostata/investigacion/resultados-deteccion-plco-respuestas
+/espanol/noticias/SELECTQandA ,/tipos/prostata/investigacion/resultados-select-respuestas
 /cancertopics/treatment/types-of-treatment,/cancertopics/treatment/types/
+/espanol/cancer/tratamiento/tipos-de-tratamiento,/espanol/cancer/tratamiento/tipos
