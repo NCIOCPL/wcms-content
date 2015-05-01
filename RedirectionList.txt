@@ -9226,9 +9226,9 @@
 /espanol/cancer/causas,/espanol/cancer/causas-prevencion
 /espanol/cancer/prevencion,/espanol/cancer/causas-prevencion
 /espanol/cancer/prevencion-genetica-causas,/espanol/cancer/causas-prevencion
-/researchandfunding/areas/clinical-trials/nctn/match,/about-cancer/treatment/clinical-trials/nci-supported/nci-match
-/researchandfunding/areas/clinical-trials/nctn/alchemist,/about-cancer/treatment/clinical-trials/nci-supported/alchemist
-/researchandfunding/areas/clinical-trials/nctn/lung-map,/about-cancer/treatment/clinical-trials/nci-supported/lung-map
+/research/areas/clinical-trials/nctn/match,/about-cancer/treatment/clinical-trials/nci-supported/nci-match
+/research/areas/clinical-trials/nctn/alchemist,/about-cancer/treatment/clinical-trials/nci-supported/alchemist
+/research/areas/clinical-trials/nctn/lung-map,/about-cancer/treatment/clinical-trials/nci-supported/lung-map
 /espanol/investigacion/areas/estudios-clinicos/nctn/match,/espanol/cancer/tratamiento/estudios-clinicos/patrocinados-por-nci/nci-match
 /espanol/investigacion/areas/estudios-clinicos/nctn/alchemist,/espanol/cancer/tratamiento/estudios-clinicos/patrocinados-por-nci/alchemist
 /espanol/investigacion/areas/estudios-clinicos/nctn/lung-map,/espanol/cancer/tratamiento/estudios-clinicos/patrocinados-por-nci/lung-map
