@@ -9264,3 +9264,6 @@
 /cancertopics/causes-prevention/genetics/ataxia-fact-sheet,/about-cancer/causes-prevention/genetics/ataxia-fact-sheet
 /cancertopics/causes-prevention/genetics/brca-fact-sheet,/about-cancer/causes-prevention/genetics/brca-fact-sheet
 /cancertopics/causes-prevention/genetics/genetic-testing-fact-sheet,/about-cancer/causes-prevention/genetics/genetic-testing-fact-sheet
+/statistics,/about-cancer/what-is-cancer/key-statistics
+/statistics/find,/about-cancer/what-is-cancer/key-statistics
+/statistics/understanding,/about-cancer/what-is-cancer/key-statistics
