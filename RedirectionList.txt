@@ -9259,7 +9259,7 @@
 /cancertopics/causes/ere,/types/breast/abortion-miscarriage-risk
 /cancertopics/causes/ere/workshop-report,/types/breast/abortion-miscarriage-risk
 /cancertopics/causes/ere/workshop-statement,/types/breast/ere-workshop-statement
-/cancertopics/causes/ere/workshop-report,/types/breast/ere-workshop-statement
+/cancertopics/causes/ere/workshop-report,/types/breast/abortion-miscarriage-risk
 /cancertopics/causes-prevention/genetics,/about-cancer/causes-prevention/genetics
 /cancertopics/causes-prevention/genetics/ataxia-fact-sheet,/about-cancer/causes-prevention/genetics/ataxia-fact-sheet
 /cancertopics/causes-prevention/genetics/brca-fact-sheet,/about-cancer/causes-prevention/genetics/brca-fact-sheet
