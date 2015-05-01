@@ -9221,3 +9221,5 @@
 /about-cancer/aya/survivorship,/about-cancer/aya
 /about-cancer/aya/treatment,/about-cancer/aya
 /about-cancer/aya/types,/about-cancer/aya
+/cancertopics/prevention-genetics-causes/breast,/types/breast
+/cancertopics/prevention-genetics-causes/cervical,/types/cervical/cancertopics/prevention-genetics-causes/childhoodcancers,/types/childhood-cancers/cancertopics/prevention-genetics-causes/colon-and-rectal,/types/colorectal/cancertopics/prevention-genetics-causes/endometrial,/types/uterine/cancertopics/prevention-genetics-causes/esophageal,/types/esophageal/cancertopics/prevention-genetics-causes/head-and-neck,/types/head-and-neck/cancertopics/prevention-genetics-causes/lung,/types/lung/cancertopics/prevention-genetics-causes/ovarian,/types/ovarian/cancertopics/prevention-genetics-causes/prostate,/types/prostate/cancertopics/prevention-genetics-causes/stomach,/types/stomach/cancertopics/prevention-genetics-causes,/about-cancer/causes-prevention/genetics
