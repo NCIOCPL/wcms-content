@@ -4940,7 +4940,6 @@
 /clinicaltrials/search/treatment-trial-guide,/about-cancer/treatment/clinical-trials/search/treatment-trial-guide
 /clinicaltrials/search/view,/about-cancer/treatment/clinical-trials/search/view
 /clinicaltrials/search-form-help,/about-cancer/treatment/clinical-trials/search/search-form-help
-/Configuration/***,/Configuration/***
 /diccionario,/espanol/publicaciones/diccionario
 /dictionary,/publications/dictionaries/cancer-terms
 /drugdictionary,/publications/dictionaries/cancer-drug
