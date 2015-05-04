@@ -457,6 +457,7 @@
 /cancertopics/diagnosis-staging/prognosis/understanding-prognosis-video,/about-cancer/diagnosis-staging/prognosis/understanding-prognosis-video
 /cancertopics/diagnosis-staging/staging,/about-cancer/diagnosis-staging/staging
 /cancertopics/diagnosis-staging/symptoms,/about-cancer/diagnosis-staging/symptoms
+/cancertopics/disparities,/research/areas/disparities
 /cancertopics/disparities/lifelines,/news-events/media-resources/multicultural/lifelines
 /cancertopics/disparities/lifelines/audiofiles,/news-events/media-resources/multicultural/lifelines/audiofiles
 /cancertopics/disparities/lifelines/breastcancer,/news-events/media-resources/multicultural/lifelines/breast-cancer
@@ -5018,6 +5019,7 @@
 /espanol/cancer/diagnostico-estadificacion/estadificacion,/espanol/cancer/diagnostico-estadificacion/estadificacion
 /espanol/cancer/diagnostico-estadificacion/pronostico,/espanol/cancer/diagnostico-estadificacion/pronostico
 /espanol/cancer/diagnostico-estadificacion/sintomas,/espanol/cancer/diagnostico-estadificacion/sintomas
+/espanol/cancer/estudios-clinicos,/espanol/cancer/tratamiento/estudios-clinicos
 /espanol/cancer/estudios-clinicos/programas-del-nci,/espanol/investigacion/areas/estudios-clinicos
 /espanol/cancer/genetica,/espanol/cancer/causas-prevencion/genetica
 /espanol/cancer/guia-estudios-clinicos,/espanol/cancer/tratamiento/estudios-clinicos
@@ -9280,4 +9282,3 @@
 /videos/scientists-spotlight/scientists-spotlight-apolo,/research/nci-role/spotlight/videos/scientists-spotlight-apolo
 /videos/scientists-spotlight/scientists-spotlight-wood,/research/nci-role/spotlight/videos/scientists-spotlight-wood
 /videos/statistics/did-you-know-cancer-survivorship-statistics-video,/about-cancer/coping/survivorship/did-you-know-cancer-survivorship-statistics-video
-/espanol/cancer/estudios-clinicos,/espanol/cancer/tratamiento/estudios-clinicos
