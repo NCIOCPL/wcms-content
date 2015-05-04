@@ -9504,3 +9504,4 @@
 /videos/statistics/did-you-know-cancer-survivorship-statistics-video,/about-cancer/coping/survivorship/did-you-know-cancer-survivorship-statistics-video
 /about-cancer/treatment/clinical-trials/search/help/page2,/about-cancer/treatment/clinical-trials/search/help
 /clinicaltrials/search-form-help/page3,/about-cancer/treatment/clinical-trials/search/help
+/espanol/cancer/tratamiento/efectos-secundarios/falta-de-apetito,/espanol/cancer/tratamiento/efectos-secundarios/perdida-apetito
