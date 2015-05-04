@@ -366,6 +366,7 @@
 /cancertopics/cancerlibrary/terminologyresources/ncidictionaries,/research/resources/terminology/ncidictionaries
 /cancertopics/cancerlibrary/terminologyresources/ncpdp,/research/resources/terminology/ncpdp
 /cancertopics/cancerlibrary/terminologyresources/pediatric,/research/resources/terminology/pediatric
+/cancertopics/causes,/about-cancer/causes-prevention
 /cancertopics/causes/breast/menopausal-ht,/types/breast/research/menopausal-ht-risk
 /cancertopics/causes/ere,/types/breast/abortion-miscarriage-risk
 /cancertopics/causes/ere/workshop-report,/types/breast/abortion-miscarriage-risk
@@ -4545,6 +4546,7 @@
 /cancertopics/pdq/treatment/wilms/Patient/page7,/types/kidney/patient/wilms-treatment-pdq#section/all
 /cancertopics/pdq/treatment/wilms/Patient/page8,/types/kidney/patient/wilms-treatment-pdq#section/all
 /cancertopics/pdq/treatment/wilms/Patient/page9,/types/kidney/patient/wilms-treatment-pdq#section/all
+/cancertopics/prevention,/about-cancer/causes-prevention
 /cancertopics/prevention/energy-balance,/about-cancer/causes-prevention/risk/obesity
 /cancertopics/prevention/skin/anyone-can-get-skin-cancer,/types/skin/anyone-can-get-skin-cancer
 /cancertopics/prevention-genetics-causes,/about-cancer/causes-prevention/genetics
@@ -4786,6 +4788,7 @@
 /cancertopics/videos/health-info-online,/about-cancer/managing-care/using-trusted-resources/health-info-online
 /cancertopics/what-is-cancer,/about-cancer/what-is-cancer
 /cancertopics/what-is-cancer/key-statistics,/about-cancer/what-is-cancer/key-statistics
+/clinicaltrials,/about-cancer/treatment/clinical-trials
 /clinicaltrials/conducting/certificates-of-confidentiality,/resources-for/researchers/certificates-confidentiality
 /clinicaltrials/conducting/clinicaltrialscourse,/resources-for/hp/education/including-clinical-trials-course
 /clinicaltrials/featured/trials/2009-0976,/types/breast/research/relaxation-radiotherapy
@@ -8976,4 +8979,3 @@
 /videos/scientists-spotlight/scientists-spotlight-apolo,/research/nci-role/spotlight/videos/scientists-spotlight-apolo
 /videos/scientists-spotlight/scientists-spotlight-wood,/research/nci-role/spotlight/videos/scientists-spotlight-wood
 /videos/statistics/did-you-know-cancer-survivorship-statistics-video,/about-cancer/coping/survivorship/did-you-know-cancer-survivorship-statistics-video
-/clinicaltrials,/about-cancer/treatment/clinical-trials
