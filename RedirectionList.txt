@@ -9505,3 +9505,4 @@
 /videos/scientists-spotlight/scientists-spotlight-apolo,/research/nci-role/spotlight/videos/scientists-spotlight-apolo
 /videos/scientists-spotlight/scientists-spotlight-wood,/research/nci-role/spotlight/videos/scientists-spotlight-wood
 /videos/statistics/did-you-know-cancer-survivorship-statistics-video,/about-cancer/coping/survivorship/did-you-know-cancer-survivorship-statistics-video
+/about-cancer/treatment/clinical-trials/search/help/page2,/about-cancer/treatment/clinical-trials/search/help
