@@ -8918,7 +8918,7 @@
 /global/web/policies/comments,/policies/comments
 /global/web/policies/copyright,/policies/copyright-reuse
 /global/web/policies/disclaimer,/policies/disclaimer
-/global/web/policies/exit,/policies/exit
+/global/web/policies/exit,/policies/linking
 /global/web/policies/foia,/policies/foia
 /global/web/policies/linking,/policies/linking
 /global/web/policies/privacy,/policies/privacy-security
