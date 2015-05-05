@@ -9505,3 +9505,4 @@
 /about-cancer/treatment/clinical-trials/search/help/page2,/about-cancer/treatment/clinical-trials/search/help
 /clinicaltrials/search-form-help/page3,/about-cancer/treatment/clinical-trials/search/help
 /espanol/cancer/tratamiento/efectos-secundarios/falta-de-apetito,/espanol/cancer/tratamiento/efectos-secundarios/perdida-apetito
+/espanol/cancer/tratamiento/efectos-secundarios/estrenimento,/espanol/cancer/tratamiento/efectos-secundarios/estrenimiento
