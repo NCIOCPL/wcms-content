@@ -470,7 +470,7 @@
 /cancertopics/coping/family-friends/teens,/about-cancer/coping/family-friends/teens
 /cancertopics/coping/feelings,/about-cancer/coping/feelings
 /cancertopics/coping/navigators,/about-cancer/managing-care/navigators
-/cancertopics/coping/physicaleffects/,/about-cancer/treatment/side-effects
+/cancertopics/coping/physicaleffects,/about-cancer/treatment/side-effects
 /cancertopics/coping/physicaleffects/audiofiles,/about-cancer/treatment/side-effects
 /cancertopics/coping/physicaleffects/chemo-side-effects,/about-cancer/treatment/side-effects
 /cancertopics/coping/physicaleffects/pain-mx-survey0412,/about-cancer/treatment/research/pain-management
