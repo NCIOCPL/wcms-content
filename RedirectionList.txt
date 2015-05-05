@@ -9506,3 +9506,5 @@
 /clinicaltrials/search-form-help/page3,/about-cancer/treatment/clinical-trials/search/help
 /espanol/cancer/tratamiento/efectos-secundarios/falta-de-apetito,/espanol/cancer/tratamiento/efectos-secundarios/perdida-apetito
 /espanol/cancer/tratamiento/efectos-secundarios/estrenimento,/espanol/cancer/tratamiento/efectos-secundarios/estrenimiento
+/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-fecundidad-hombres,/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-hombres
+/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-fecundidad-mujeresto,/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-mujeres
