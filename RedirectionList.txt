@@ -306,7 +306,7 @@
 /cancertopics/advanced-cancer,/about-cancer/advanced-cancer
 /cancertopics/advanced-cancer/care-choices,/about-cancer/advanced-cancer/care-choices
 /cancertopics/advanced-cancer/caregivers,/about-cancer/advanced-cancer/caregivers
-/cancertopics/advanced-cancer/caregivers/caregiver-planning,/about-cancer/advanced-cancer/caregivers/caregiver-planning
+/cancertopics/advanced-cancer/caregivers/caregiver-planning,/about-cancer/advanced-cancer/caregivers/planning
 /cancertopics/advanced-cancer/caregivers/self-care,/about-cancer/advanced-cancer/caregivers/self-care
 /cancertopics/advanced-cancer/feelings,/about-cancer/advanced-cancer/feelings
 /cancertopics/advanced-cancer/planning,/about-cancer/advanced-cancer/planning
