@@ -5404,7 +5404,7 @@
 /espanol/cancer/tratamiento/efectos-secundarios/estrenimento,/espanol/cancer/tratamiento/efectos-secundarios/estrenimiento
 /espanol/cancer/tratamiento/efectos-secundarios/falta-de-apetito,/espanol/cancer/tratamiento/efectos-secundarios/perdida-apetito
 /espanol/cancer/tratamiento/efectos-secundarios/sexualidad-fecundidad-hombres,/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-hombres
-/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-fecundidad-mujeresto,/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-mujeres
+/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-fecundidad-mujeres,/espanol/cancer/tratamiento/efectos-secundarios/sexualidad-mujeres
 /espanol/cancer/tratamiento/quimioterapia/consejos/anemia.pdf,espanol/publicaciones/educaciones-para-pacientes/anemia.pdf
 /espanol/cancer/tratamiento/quimioterapia/consejos/sp-chemosheets_boca.pdf,espanol/publicaciones/educaciones-para-pacientes/sp-chemosheets_boca.pdf
 /espanol/cancer/tratamiento/quimioterapia/consejos/sp-chemosheets_caida_pelo.pdf,espanol/publicaciones/educaciones-para-pacientes/sp-chemosheets_caida_pelo.pdf
