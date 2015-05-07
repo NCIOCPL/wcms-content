@@ -5135,7 +5135,7 @@
 /clinicaltrials/learningabout/what-are-clinical-trials/what-are-clinical-trials-video,/about-cancer/treatment/clinical-trials/what-are-trials/what-are-clinical-trials-video
 /clinicaltrials/learningabout/what-are-clinical-trials/where-trials-take-place,/about-cancer/treatment/clinical-trials/what-are-trials/where
 /clinicaltrials/noteworthy-trials/altto,/types/breast/research/altto
-/clinicaltrials/noteworthy-trials/lung-map/dr-david-gandara-lung-map-trial,/research/areas/clinical-trials/nctn/dr-david-gandara-lung-map-trial
+/clinicaltrials/noteworthy-trials/lung-map/dr-david-gandara-lung-map-trial,/types/lung/research/dr-david-gandara-lung-map-trial
 /clinicaltrials/noteworthy-trials/nlst,/types/lung/research/altto
 /clinicaltrials/noteworthy-trials/tailorx,/types/breast/research/tailorx
 /clinicaltrials/precision-medicine-lung-cancer-video,/research/areas/clinical-trials/nctn/precision-medicine-lung-cancer-video
