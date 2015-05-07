@@ -337,7 +337,7 @@
 /aboutnci/servingpeople/cancer-research-progress/discovery/KRASmodel,/research/progress/discovery/kras-model
 /aboutnci/servingpeople/cancer-research-progress/discovery/methotrexate,/research/progress/discovery/methotrexate
 /aboutnci/servingpeople/cancer-research-progress/discovery/mTORinhibitors,/research/progress/discovery/mtor-inhibitors
-/aboutnci/servingpeople/cancer-research-progress/discovery/neuroblastoma,/research/progress/discovery/neurablastoma
+/aboutnci/servingpeople/cancer-research-progress/discovery/neuroblastoma,/research/progress/discovery/neuroblastoma
 /aboutnci/servingpeople/cancer-research-progress/discovery/NLST,/research/progress/discovery/nlst
 /aboutnci/servingpeople/cancer-research-progress/discovery/oralmucositis,/research/progress/discovery/oral-mucositis
 /aboutnci/servingpeople/cancer-research-progress/discovery/quitlines,/research/progress/discovery/quitlines
