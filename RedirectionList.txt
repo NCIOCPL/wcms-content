@@ -9263,11 +9263,11 @@
 /researchandfunding/areas/causes,/research/areas/causes
 /researchandfunding/areas/childhood,/research/areas/childhood
 /researchandfunding/areas/clinical-trials,/research/areas/clinical-trials
-/researchandfunding/areas/clinical-trials/alchemist,/research/areas/clinical-trials/nctn/alchemist
+/researchandfunding/areas/clinical-trials/alchemist,/types/lung/research/alchemist
 /researchandfunding/areas/clinical-trials/conducting,/research/areas/clinical-trials/conducting
-/researchandfunding/areas/clinical-trials/lung-map,/research/areas/clinical-trials/nctn/lung-map
-/researchandfunding/areas/clinical-trials/lung-map/dr-david-gandara-lung-map-trial,/research/areas/clinical-trials/nctn/dr-david-gandara-lung-map-trial
-/researchandfunding/areas/clinical-trials/match,/research/areas/clinical-trials/nctn/match
+/researchandfunding/areas/clinical-trials/lung-map,/types/lung/research/lung-map
+/researchandfunding/areas/clinical-trials/lung-map/dr-david-gandara-lung-map-trial,/about-cancer/treatment/clinical-trials/nci-supported/dr-david-gandara-lung-map-trial
+/researchandfunding/areas/clinical-trials/match,/about-cancer/treatment/clinical-trials/nci-supported/nci-match
 /researchandfunding/areas/clinical-trials/nctn,/research/areas/clinical-trials/nctn
 /researchandfunding/areas/clinical-trials/nctn/alchemist,/types/lung/research/alchemist
 /researchandfunding/areas/clinical-trials/nctn/lung-map,/types/lung/research/lung-map
