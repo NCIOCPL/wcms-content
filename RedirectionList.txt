@@ -8899,7 +8899,7 @@
 /cancertopics/types/cervical/pap-hpv-testing-fact-sheet,/types/cervical/pap-hpv-testing-fact-sheet
 /cancertopics/types/childhoodcancers,/types/childhood-cancers
 /cancertopics/types/childhoodcancers/ccss,/types/childhood-cancers/ccss
-/cancertopics/types/childhoodcancers/child-adolescent-cancers-fact-sheet,/types/childhoodcancers/child-adolescent-cancers-fact-sheet
+/cancertopics/types/childhoodcancers/child-adolescent-cancers-fact-sheet,/types/childhood-cancers/child-adolescent-cancers-fact-sheet
 /cancertopics/types/colorectal,/types/colorectal
 /cancertopics/types/colorectal/screening-fact-sheet,/types/colorectal/screening-fact-sheet
 /cancertopics/types/commoncancers,/types/commoncancers
