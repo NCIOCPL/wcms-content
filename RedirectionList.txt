@@ -4266,7 +4266,7 @@
 /cancertopics/causes-prevention/risk/ahs-fact-sheet,/about-cancer/causes-prevention/risk/ahs-fact-sheet
 /cancertopics/causes-prevention/risk/alcohol,/about-cancer/causes-prevention/risk/alcohol
 /cancertopics/causes-prevention/risk/alcohol/alcohol-fact-sheet,/about-cancer/causes-prevention/risk/alcohol/alcohol-fact-sheet
-/cancertopics/causes-prevention/risk/chronic-inflamation,/about-cancer/causes-prevention/risk/chronic-inflamation
+/cancertopics/causes-prevention/risk/chronic-inflammation,/about-cancer/causes-prevention/risk/chronic-inflammation
 /cancertopics/causes-prevention/risk/diet,/about-cancer/causes-prevention/risk/diet
 /cancertopics/causes-prevention/risk/diet/acrylamide-fact-sheet,/about-cancer/causes-prevention/risk/diet/acrylamide-fact-sheet
 /cancertopics/causes-prevention/risk/diet/antioxidants-fact-sheet,/about-cancer/causes-prevention/risk/diet/antioxidants-fact-sheet
@@ -4312,7 +4312,6 @@
 /cancertopics/causes-prevention/risk/substances/cadmium,/about-cancer/causes-prevention/risk/substances/cadmium
 /cancertopics/causes-prevention/risk/substances/cancer-clusters-fact-sheet,/about-cancer/causes-prevention/risk/substances/cancer-clusters-fact-sheet
 /cancertopics/causes-prevention/risk/substances/chromium,/about-cancer/causes-prevention/risk/substances/chromium
-/cancertopics/causes-prevention/risk/substances/clusters,/about-cancer/causes-prevention/risk/substances/clusters
 /cancertopics/causes-prevention/risk/substances/coal-tar,/about-cancer/causes-prevention/risk/substances/coal-tar
 /cancertopics/causes-prevention/risk/substances/coke-oven,/about-cancer/causes-prevention/risk/substances/coke-oven
 /cancertopics/causes-prevention/risk/substances/crystalline-silica,/about-cancer/causes-prevention/risk/substances/crystalline-silica
@@ -4327,11 +4326,11 @@
 /cancertopics/causes-prevention/risk/substances/radon,/about-cancer/causes-prevention/risk/substances/radon
 /cancertopics/causes-prevention/risk/substances/radon/radon-fact-sheet,/about-cancer/causes-prevention/risk/substances/radon/radon-fact-sheet
 /cancertopics/causes-prevention/risk/substances/secondhand-smoke,/about-cancer/causes-prevention/risk/substances/secondhand-smoke
-/cancertopics/causes-prevention/risk/substances/soots,/about-cancer/causes-prevention/risk/substances/soots
+/cancertopics/causes-prevention/risk/substances/soot,/about-cancer/causes-prevention/risk/substances/soot
 /cancertopics/causes-prevention/risk/substances/thorium,/about-cancer/causes-prevention/risk/substances/thorium
 /cancertopics/causes-prevention/risk/substances/vinyl-chloride,/about-cancer/causes-prevention/risk/substances/vinyl-chloride
 /cancertopics/causes-prevention/risk/substances/wood-dust,/about-cancer/causes-prevention/risk/substances/wood-dust
-/cancertopics/causes-prevention/risk/sun-exposure,/about-cancer/causes-prevention/risk/sun-exposure
+/cancertopics/causes-prevention/risk/sunlight,/about-cancer/causes-prevention/risk/sunlight
 /cancertopics/causes-prevention/risk/tobacco,/about-cancer/causes-prevention/risk/tobacco
 /cancertopics/causes-prevention/risk/tobacco/cessation-fact-sheet,/about-cancer/causes-prevention/risk/tobacco/cessation-fact-sheet
 /cancertopics/causes-prevention/risk/tobacco/cigars-fact-sheet,/about-cancer/causes-prevention/risk/tobacco/cigars-fact-sheet
@@ -4843,7 +4842,7 @@
 /cancertopics/factsheet/Risk/stress,/about-cancer/coping/feelings/stress-fact-sheet
 /cancertopics/factsheet/Sites-Types,/publications/fact-sheets
 /cancertopics/factsheet/Sites-Types/bone,/types/bone/bone-fact-sheet
-/cancertopics/factsheet/Sites-Types/childhood,/types/childhoodcancers/child-adolescent-cancers-fact-sheet
+/cancertopics/factsheet/Sites-Types/childhood,/types/childhood-cancers/child-adolescent-cancers-fact-sheet
 /cancertopics/factsheet/Sites-Types/head-and-neck,/types/head-and-neck/head-neck-fact-sheet
 /cancertopics/factsheet/Sites-Types/IBC,/types/breast/ibc-fact-sheet
 /cancertopics/factsheet/Sites-Types/metastatic,/about-cancer/what-is-cancer/metastatic-fact-sheet
@@ -8921,7 +8920,6 @@
 /cancertopics/types/lymphoma,/types/lymphoma
 /cancertopics/types/melanoma,/types/eye
 /cancertopics/types/mesothelioma,/types/mesothelioma
-/cancertopics/types/metastatic-cancer,/types/metastatic-cancer
 /cancertopics/types/myeloma,/types/myeloma
 /cancertopics/types/myeloproliferative,/types/myeloproliferative
 /cancertopics/types/neuroblastoma,/types/neuroblastoma
@@ -8940,7 +8938,6 @@
 /cancertopics/types/skin/melanoma-photos,/types/skin/melanoma-photos
 /cancertopics/types/skin/mole-photos,/types/skin/mole-photos
 /cancertopics/types/skin/moles-fact-sheet,/types/skin/moles-fact-sheet
-/cancertopics/types/skin/research/melanoma-til-immunotherapy,/types/skin/research/melanoma-til-immunotherapy
 /cancertopics/types/skin/self-exam,/types/skin/self-exam
 /cancertopics/types/skin/sun-tips,/types/skin/sun-tips
 /cancertopics/types/small-intestine,/types/small-intestine
