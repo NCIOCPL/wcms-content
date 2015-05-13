@@ -8901,7 +8901,7 @@
 /cancertopics/types/childhoodcancers/child-adolescent-cancers-fact-sheet,/types/childhood-cancers/child-adolescent-cancers-fact-sheet
 /cancertopics/types/colorectal,/types/colorectal
 /cancertopics/types/colorectal/screening-fact-sheet,/types/colorectal/screening-fact-sheet
-/cancertopics/types/commoncancers,/types/commoncancers
+/cancertopics/types/commoncancers,/types/common-cancers
 /cancertopics/types/endometrial,/types/uterine
 /cancertopics/types/esophageal,/types/esophageal
 /cancertopics/types/extracranial-germ-cell,/types/extracranial-germ-cell
