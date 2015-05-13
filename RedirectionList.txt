@@ -13408,7 +13408,7 @@
 /researchandfunding/priorities/ras/help-advance-the-research/ras-blogs/ras-quantitative-assays,/research/key-initiatives/ras/ras-central/blog/ras-quantitative-assays
 /researchandfunding/priorities/ras/help-advance-the-research/ras-blogs/welcome,/research/key-initiatives/ras/ras-central/blog/welcome
 /researchandfunding/priorities/ras/help-advance-the-research/ras-blogs/what-do-we-mean-ras-pathway,/research/key-initiatives/ras/ras-central/blog/what-do-we-mean-ras-pathway
-/researchandfunding/priorities/ras/ras-cell-lines,/research/key-initiatives/ras/ras-cell-lines
+/researchandfunding/priorities/ras/ras-cell-lines,/research/key-initiatives/ras/groups/target-biology/cell-lines
 /researchandfunding/priorities/ras/ras-groups,/research/key-initiatives/ras/groups
 /researchandfunding/priorities/ras/ras-groups/biology-analysis,/research/key-initiatives/ras/groups/biology-analysis
 /researchandfunding/priorities/ras/ras-groups/cell-surface,/research/key-initiatives/ras/groups/cell-surface
@@ -26900,7 +26900,7 @@
 /researchandfunding/priorities/ras/help-advance-the-research/ras-blogs/ras-quantitative-assays/,/research/key-initiatives/ras/ras-central/blog/ras-quantitative-assays
 /researchandfunding/priorities/ras/help-advance-the-research/ras-blogs/welcome/,/research/key-initiatives/ras/ras-central/blog/welcome
 /researchandfunding/priorities/ras/help-advance-the-research/ras-blogs/what-do-we-mean-ras-pathway/,/research/key-initiatives/ras/ras-central/blog/what-do-we-mean-ras-pathway
-/researchandfunding/priorities/ras/ras-cell-lines/,/research/key-initiatives/ras/ras-cell-lines
+/researchandfunding/priorities/ras/ras-cell-lines/,/research/key-initiatives/ras/groups/target-biology/cell-lines
 /researchandfunding/priorities/ras/ras-groups/,/research/key-initiatives/ras/groups
 /researchandfunding/priorities/ras/ras-groups/biology-analysis/,/research/key-initiatives/ras/groups/biology-analysis
 /researchandfunding/priorities/ras/ras-groups/cell-surface/,/research/key-initiatives/ras/groups/cell-surface
