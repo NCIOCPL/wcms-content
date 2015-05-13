@@ -3918,10 +3918,10 @@
 /aboutnci/organization/ccg/collaborations,/about-nci/organization/ccg/collaborations
 /aboutnci/organization/ccg/events,/about-nci/organization/ccg/events
 /aboutnci/organization/ccg/programs,/about-nci/organization/ccg/programs
-/aboutnci/organization/cct,/about-nci/organization/cct
-/aboutnci/organization/cct/about,/about-nci/organization/cct/about
-/aboutnci/organization/cct/cct-wiest-video,/about-nci/organization/cct/cct-wiest-video
-/aboutnci/organization/cct/contact,/about-nci/organization/cct/contact
+/aboutnci/organization/cct,/grants-training/training
+/aboutnci/organization/cct/about,/grants-training/training/about
+/aboutnci/organization/cct/cct-wiest-video,/grants-training/training/about/cct-wiest-video
+/aboutnci/organization/cct/contact,/grants-training/training/contact
 /aboutnci/organization/clinical-center-fact-sheet,/about-nci/organization/clinical-center-fact-sheet
 /aboutnci/organization/crchd,/about-nci/organization/crchd
 /aboutnci/organization/crchd/about,/about-nci/organization/crchd/about
@@ -13045,7 +13045,7 @@
 /newscenter/newsfromnci/2013/HPVOropharynxWorldwideTrend,/news-events/press-releases/2013/HPVOropharynxWorldwideTrend
 /newscenter/newsfromnci/2013/IFNL4affectsclearanceofhepatitisCvirus,/news-events/press-releases/2013/IFNL4affectsclearanceofhepatitisCvirus
 /newscenter/newsfromnci/2013/MathematicalTechniqueCancerCellData,/news-events/press-releases/2013/MathematicalTechniqueCancerCellData
-/newscenter/newsfromnci/2013/NCI-60CellLine,/new-events/press-releases/2013/NCI-60CellLine
+/newscenter/newsfromnci/2013/NCI-60CellLine,/news-events/press-releases/2013/NCI-60CellLine
 /newscenter/newsfromnci/2013/NewMelanomaDrug,/news-events/press-releases/2013/NewMelanomaDrug
 /newscenter/newsfromnci/2013/OmicsChecklist,/news-events/press-releases/2013/OmicsChecklist
 /newscenter/newsfromnci/2013/OncogeneMutationHijacksSplicingProcess,/news-events/press-releases/2013/OncogeneMutationHijacksSplicingProcess
