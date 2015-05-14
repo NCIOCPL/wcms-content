@@ -27004,3 +27004,7 @@
 /videos/scientists-spotlight/scientists-spotlight-wood/,/research/nci-role/spotlight/videos/scientists-spotlight-wood
 /videos/statistics/did-you-know-cancer-survivorship-statistics-video,/about-cancer/coping/survivorship/did-you-know-cancer-survivorship-statistics-video
 /videos/statistics/did-you-know-cancer-survivorship-statistics-video/,/about-cancer/coping/survivorship/did-you-know-cancer-survivorship-statistics-video
+/espanol/cancer/tratamiento/cam,/espanol/cancer/tratamiento/mca
+/espanol/cancer/tratamiento/cam/paciente,/espanol/cancer/tratamiento/mca/paciente
+/espanol/cancer/tratamiento/cam/pro,/espanol/cancer/tratamiento/mca/pro
+/espanol/cancer/tratamiento/cancer-infantil,/espanol/tipos/infantil
