@@ -20841,4 +20841,12 @@
 /about-nci/budget/plan-archives/2012.pdf,/about-nci/budget/annual-plan/nci-plan-2012.pdf
 /about-nci/budget/plan-archives/nci-plan-2013.pdf,/about-nci/budget/annual-plan/nci-plan-2013.pdf
 /about-nci/budget/plan-archives/nci-plan-2016.pdf,/about-nci/budget/annual-plan/nci-plan-2016.pdf
-/about-nci/budget/plan,/about-nci/budget/plan-archives
+/about-nci/budget/nci-budget-proposal-2017,/about-nci/budget/plan
+/about-nci/budget/nci-budget-proposal-2017/progress,/about-nci/budget/plan/progress
+/about-nci/budget/nci-budget-proposal-2017/discovery,/about-nci/budget/plan/discovery
+/about-nci/budget/nci-budget-proposal-2017/precision,/about-nci/budget/plan/precision
+/about-nci/budget/nci-budget-proposal-2017/eliminating-disparities-story,/about-nci/budget/plan/eliminating-disparities-story
+/about-nci/budget/nci-budget-proposal-2017/hpv-testing-story,/about-nci/budget/plan/hpv-testing-story
+/about-nci/budget/nci-budget-proposal-2017/immunotherapy-origins-story,/about-nci/budget/plan/immunotherapy-origins-story
+/about-nci/budget/nci-budget-proposal-2017/nci-60-story,/about-nci/budget/plan/nci-60-story
+/about-nci/budget/nci-budget-proposal-2017/progress-against-cancer-story,/about-nci/budget/plan/progress-against-cancer-story
