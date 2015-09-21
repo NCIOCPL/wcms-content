@@ -20850,3 +20850,4 @@
 /about-nci/budget/nci-budget-proposal-2017/immunotherapy-origins-story,/about-nci/budget/plan/immunotherapy-origins-story
 /about-nci/budget/nci-budget-proposal-2017/nci-60-story,/about-nci/budget/plan/nci-60-story
 /about-nci/budget/nci-budget-proposal-2017/progress-against-cancer-story,/about-nci/budget/plan/progress-against-cancer-story
+/cancer-currents,/news-events/cancer-currents-blog
