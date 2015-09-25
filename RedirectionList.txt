@@ -20868,6 +20868,10 @@
 /about-nci/organization/ccct/other-programs/biqsfp/2015_BIQSFP_BiomarkerStudyEvalGuide,/about-nci/organization/ccct/other-programs/biqsfp/2015-biqsfp-biomarkerstudyevalguide
 /about-nci/organization/ccct/other-programs/biqsfp/2015_BIQSFPAnnouncementFIINAL,/about-nci/organization/ccct/other-programs/biqsfp/2015-biqsfpannouncementfiinal
 /about-nci/organization/ccct/other-programs/biqsfp/2015BIQSFP_BiomarkerStudyEvalTemp,/about-nci/organization/ccct/other-programs/biqsfp/2015biqsfp-biomarkerstudyevaltemp
+/about-nci/organization/ccct/other-programs/biqsfp/2015BIQSFP_BiomarkerStudyChklist,/about-nci/organization/ccct/other-programs/biqsfp/2015biqsfp-biomarkerstudychklist
+/about-nci/organization/ccct/other-programs/biqsfp/2015BIQSFP_CEAStudyChklist,/about-nci/organization/ccct/other-programs/biqsfp/2015biqsfp-ceastudychklist
+/about-nci/organization/ccct/other-programs/biqsfp/2015BIQSFP_CEAStudyEvalGuide,/about-nci/organization/ccct/other-programs/biqsfp/2015biqsfp-ceastudyevalguide
+/about-nci/organization/ccct/other-programs/biqsfp/2015BIQSFP_CEAStudyEvalGuide2,/about-nci/organization/ccct/other-programs/biqsfp/2015biqsfp-ceastudyevalguide2
 /about-nci/organization/ccct/steering-committees/patient-advocate/PASC_Acronym-List.pdf,/about-nci/organization/ccct/steering-committees/patient-advocate/pasc-acronym-list.pdf
 /about-nci/organization/crchd/about-health-disparities/resources/CRCHDfactsheet_R01R21,/about-nci/organization/crchd/about-health-disparities/resources/crchdfactsheet-r01r21
 /about-nci/organization/crchd/about-health-disparities/resources/CRCHDfactsheet_R21,/about-nci/organization/crchd/about-health-disparities/resources/crchdfactsheet-r21
