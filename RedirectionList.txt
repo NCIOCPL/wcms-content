@@ -21018,3 +21018,6 @@
 /about-nci/organization/ccct/other-programs/biqsfp/BIQSFP_13_QOL_Study_Evaluation_Guidelines.pdf,/about-nci/organization/ccct/other-programs/biqsfp/biqsfp-13-qol-study-evaluation-guidelines.pdf
 /about-nci/organization/ccct/other-programs/biqsfp/BIQSFP_13_QOL_Study_Evaluation_Template,/about-nci/organization/ccct/other-programs/biqsfp/biqsfp-13-qol-study-evaluation-template
 /about-nci/organization/ccct/other-programs/biqsfp/BIQSFP_Funding_Announcement-Revised.pdf,/about-nci/organization/ccct/other-programs/biqsfp/biqsfp-funding-announcement-revised.pdf
+/research/progress/snapshots/headandneck,/research/progress/snapshots/head-and-neck
+/research/progress/snapshots/kaposisarcoma,/research/progress/snapshots/kaposi-sarcoma
+/research/progress/snapshots/liverandbileduct,/research/progress/snapshots/liver
