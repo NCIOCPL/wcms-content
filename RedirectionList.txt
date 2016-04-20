@@ -20552,8 +20552,6 @@
 /researchandfunding/cancertraining/funding/k12,/grants-training/training/funding/k12
 /researchandfunding/cancertraining/funding/k22,/grants-training/training/funding/k22
 /researchandfunding/cancertraining/funding/k23,/grants-training/training/funding/k23
-/researchandfunding/cancertraining/funding/k24,/grants-training/training/funding/k24
-/researchandfunding/cancertraining/funding/k25,/grants-training/training/funding/k25
 /researchandfunding/cancertraining/funding/k99,/grants-training/training/funding/k99
 /researchandfunding/cancertraining/funding/kaward-report,/grants-training/training/funding/kaward-report
 /researchandfunding/cancertraining/funding/R25E,/grants-training/training/funding/R25E
