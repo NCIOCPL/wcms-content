@@ -21116,7 +21116,6 @@
 /news-events/press-releases/2015/tcga_lowergradegliomas,/news-events/press-releases/2015/tcga-lowergradegliomas
 /grants-training/training/funding/f99/F99-K00_1st_webinar_slides,/grants-training/training/funding/f99/f99-k00-1st-webinar-slides
 /grants-training/training/funding/f99/F99-K00_Fact_Sheet,/grants-training/training/funding/f99/f99-k00-fact-sheet
-/espanol/publicaciones/educacion-para-pacientes/WYNTK_cervixsp.mobi,/espanol/publicaciones/educacion-para-pacientes/wyntk-cervixsp.mobi
 /about-cancer/what-is-cancer/statistics/did-you-know-status-cancer-video,/about-cancer/understanding/statistics/did-you-know-status-cancer-video
 /contact/videos,/contact/cis-short-video
 /contact/videos/cancer-information-service,/contact/cis-staff-video
