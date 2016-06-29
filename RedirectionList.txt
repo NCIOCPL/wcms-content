@@ -21119,5 +21119,4 @@
 /espanol/publicaciones/educacion-para-pacientes/WYNTK_cervixsp.mobi,/espanol/publicaciones/educacion-para-pacientes/wyntk-cervixsp.mobi
 /about-cancer/what-is-cancer/statistics/did-you-know-status-cancer-video,/about-cancer/understanding/statistics/did-you-know-status-cancer-video
 /contact/videos,/contact/cis-short-video
-contact/videos/cancer-information-service,/contact/cis-staff-video
-
+/contact/videos/cancer-information-service,/contact/cis-staff-video
