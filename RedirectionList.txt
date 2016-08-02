@@ -21119,3 +21119,6 @@
 /about-cancer/what-is-cancer/statistics/did-you-know-status-cancer-video,/about-cancer/understanding/statistics/did-you-know-status-cancer-video
 /contact/videos,/contact/cis-short-video
 /contact/videos/cancer-information-service,/contact/cis-staff-video
+/about-cancer/coping/family-friends/adjusting-to-being-a-caregiver,/about-cancer/coping/caregiver-support
+/about-cancer/coping/family-friends/caring-for-yourself,/about-cancer/coping/caregiver-support
+/about-cancer/coping/family-friends/long-distance,/about-cancer/coping/caregiver-support
