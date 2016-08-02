@@ -21122,3 +21122,6 @@
 /about-cancer/coping/family-friends/adjusting-to-being-a-caregiver,/about-cancer/coping/caregiver-support
 /about-cancer/coping/family-friends/caring-for-yourself,/about-cancer/coping/caregiver-support
 /about-cancer/coping/family-friends/long-distance,/about-cancer/coping/caregiver-support
+/espanol/cancer/sobrellevar/familia-y-amigos/adaptarse-al-cuidado-del-paciente,/espanol/cancer/sobrellevar/apoyo-a-quien-cuida
+/espanol/cancer/sobrellevar/familia-y-amigos/cuidar-de-usted-mismo,/espanol/cancer/sobrellevar/apoyo-a-quien-cuida
+/espanol/cancer/sobrellevar/familia-y-amigos/larga-distancia,/espanol/cancer/sobrellevar/apoyo-a-quien-cuida
