@@ -21141,3 +21141,12 @@
 /research/key-initiatives/ras/groups/biology-analysis,/research/key-initiatives/ras/screens-assays/drug-discovery
 /cancergenomics,/about-nci/organization/ccg/cancer-genomics-overview
 /oia,/grants-training/grants/funding-opportunities/oia
+/about-nci/budget/plan,/about-nci/budget/annual-plan
+/blog,/news-events/cancer-currents-blog
+/licensing,/syndication
+/pasthighlights,/news-events
+/researchfunding,/research
+/researchprograms,/research
+/tobacco,/about-cancer/causes-prevention/risk/tobacco
+/calendar,/news-events/events
+/faq,/about-website
