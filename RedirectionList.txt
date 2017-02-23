@@ -21170,3 +21170,4 @@
 /research/key-initiatives/ras/ras-central/blog/targeting-ral-gef,/research/key-initiatives/ras/ras-central/blog/2015/targeting-ral-gef
 /research/key-initiatives/ras/ras-central/blog/ras-no-magic-bullet,/research/key-initiatives/ras/ras-central/blog/2015/ras-no-magic-bullet
 /research/key-initiatives/ras/ras-central/blog/allan-balmain-interview,/research/key-initiatives/ras/ras-central/blog/2015/allan-balmain-interview
+/types/colon-and-rectal/,/types/colorectal
