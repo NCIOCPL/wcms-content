@@ -21159,3 +21159,13 @@
 /types/head-and-neck/hp/paranasal-sinus-treatment-pdq/,/types/head-and-neck/hp/adult/paranasal-sinus-treatment-pdq
 /types/head-and-neck/patient/salivary-gland-treatment-pdq/,/types/head-and-neck/patient/adult/salivary-gland-treatment-pdq
 /types/head-and-neck/hp/salivary-gland-treatment-pdq/,/types/head-and-neck/hp/adult/salivary-gland-treatment-pdq
+/multimedia/infographics/hpv-vaccine-uptake-infographic,/about-cancer/causes-prevention/risk/infectious-agents/hpv-vaccine-uptake-infographic
+/multimedia/videos/lowy-annual-plan-2017-video,/about-nci/budget/plan/lowy-annual-plan-2017-video
+/multimedia/infographics/,/multimedia
+/multimedia/videos/,/multimedia
+/multimedia/videos/cancer-epidemiology-genomics-research-kathy-helzlsouer-video,/news-events/cancer-currents-blog/2016/cancer-epidemiology-genomics-research-kathy-helzlsouer-video
+/multimedia/infographics/connected-health-infographic,/news-events/cancer-currents-blog/2016/connected-health-infographic
+/multimedia/videos/healthcare-delivery-research-program-video,/news-events/cancer-currents-blog/2017/healthcare-delivery-research-program-video
+/multimedia/infographics/precision-medicine/nci-precision-medicine-infographic,/research/areas/treatment/nci-precision-medicine-infographic
+/multimedia/videos/driving-discovery-video,/research/nci-role/driving-discovery-video
+/multimedia/videos/oxygen-metastasis-video,/types/metastatic-cancer/research/oxygen-metastasis-video
