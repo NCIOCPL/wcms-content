@@ -21172,4 +21172,3 @@
 /research/nci-role/spotlight/merit/criteria,/grants-training/grants-funding/funding-opportunities/merit
 /about-cancer/treatment/clinical-trials/search/results,/about-cancer/treatment/clinical-trials/search/options
 /about-cancer/treatment/clinical-trials/search/printresults,/about-cancer/treatment/clinical-trials/search/options
-/about-cancer/treatment/clinical-trials/search/view,/about-cancer/treatment/clinical-trials/search/options
