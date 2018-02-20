@@ -21198,7 +21198,6 @@
 /sites/ocnr/grants-training/funding,/sites/nano/grants-training/funding
 /sites/ocnr/grants-training/training-grants,/sites/nano/grants-training/training-grants
 /sites/ocnr/news-events,/sites/nano/news-events
-/sites/ocnr/news-events/article,/sites/nano/news-events/article
 /sites/ocnr/news-events/events,/sites/nano/news-events/events
 /sites/ocnr/news-events/news,/sites/nano/news-events/news
 /sites/ocnr/news-events/news/alliance-phase-2-summary.pdf,/sites/nano/news-events/news/alliance-phase-2-summary.pdf
