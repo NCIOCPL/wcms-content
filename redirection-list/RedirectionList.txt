@@ -12788,7 +12788,7 @@
 /cancertopics/types/lymphoma/research/late-effects-radiotherapy,/types/lymphoma/research/late-effects-radiotherapy
 /cancertopics/types/lymphoma/research/radiation-chemo-hodgkin,/types/lymphoma/research/radiation-chemo-hodgkin
 /cancertopics/types/lymphoma/research/rituximab-retreatment-follicular,/types/lymphoma/research/rituximab-retreatment-follicular
-/cancertopics/types/melanoma,/types/eye
+/cancertopics/types/melanoma,/types/skin
 /cancertopics/types/mesothelioma,/types/mesothelioma
 /cancertopics/types/mesothelioma/research/immunotoxin,/types/mesothelioma/research/immunotoxin
 /cancertopics/types/metastatic-cancer/research/cardiac-tumors,/types/metastatic-cancer/research/cardiac-tumors
