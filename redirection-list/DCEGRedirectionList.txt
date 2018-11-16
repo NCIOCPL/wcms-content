@@ -1,0 +1,2 @@
+/research/foo,/research
+/research/foo/bar,/research?foo=bar
