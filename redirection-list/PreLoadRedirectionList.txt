@@ -1,4 +1,2 @@
 /research/resources/terminology/fmt,/research/resources/search?from=0&toolTypes=terminology
 /research/resources/terminology/ncidictionaries,/research/resources/search?from=0&toolTypes=terminology
-/about-cancer/treatment/clinical-trials/disease/foo,/about-cancer/treatment/clinical-trials
-/about-cancer/treatment/clinical-trials/disease/foo/bar,/about-cancer/treatment/clinical-trials?foo=bar
