@@ -21458,3 +21458,4 @@
 /espanol/publicaciones/educacion-para-pacientes/sp-chemosheets-tiene-dolor.pdf,/espanol/cancer/tratamiento/efectos-secundarios/dolor
 /espanol/publicaciones/educacion-para-pacientes/sp-chemosheets-tiene-estrenimiento.pdf,/espanol/cancer/tratamiento/efectos-secundarios/estrenimiento
 /espanol/publicaciones/educacion-para-pacientes/sp-chemosheets-tiene-sangrado.pdf,/espanol/cancer/tratamiento/efectos-secundarios/sangrado-moretones
+/about-cancer/treatment/types/radiation-therapy/internal,/about-cancer/treatment/types/radiation-therapy/brachytherapy
