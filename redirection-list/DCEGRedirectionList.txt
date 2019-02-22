@@ -49,3 +49,4 @@
 /shareditems/contentblocks/ag-exp-mult-myeloma-printable-pdf,/shareditems/contentblocks/ag-exp-mult-myeloma-printable.pdf
 /tools/design/case-control-sample/readme,/tools/design/case-control-sample/readme.pdf
 /tools/risk-assessment/hispbrca_ram/ReadMe,/tools/risk-assessment/hispbrca_ram/ReadMe.pdf
+/fellowship-training/training-resources-for-fellows-and-staff/2015-rad-epi-course,/fellowship-training/training-resources-for-fellows-and-staff/rad-epi-course
