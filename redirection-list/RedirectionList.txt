@@ -21459,3 +21459,4 @@
 /espanol/publicaciones/educacion-para-pacientes/sp-chemosheets-tiene-estrenimiento.pdf,/espanol/cancer/tratamiento/efectos-secundarios/estrenimiento
 /espanol/publicaciones/educacion-para-pacientes/sp-chemosheets-tiene-sangrado.pdf,/espanol/cancer/tratamiento/efectos-secundarios/sangrado-moretones
 /about-cancer/treatment/types/radiation-therapy/internal,/about-cancer/treatment/types/radiation-therapy/brachytherapy
+/research/areas/childhood/research-directions/childhood-cancer-basic-cancer-research,/research/areas/childhood/childhood-cancer-basic-cancer-research
