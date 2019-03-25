@@ -21461,3 +21461,4 @@
 /about-cancer/treatment/types/radiation-therapy/internal,/about-cancer/treatment/types/radiation-therapy/brachytherapy
 /research/areas/childhood/research-directions/childhood-cancer-basic-cancer-research,/research/areas/childhood/childhood-cancer-basic-cancer-research
 /espanol/cancer/sobrellevar/investigacion/adolescentes-adultos-jovenes-problemas-salud,/espanol/cancer/sobrellevar/supervivencia/efectos-tardios
+/news-events/press-releases/2013/E3805,/types/prostate/prostate-hormone-therapy-fact-sheet
