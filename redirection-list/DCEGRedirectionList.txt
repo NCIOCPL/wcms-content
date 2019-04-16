@@ -50,3 +50,6 @@
 /tools/design/case-control-sample/readme,/tools/design/case-control-sample/readme.pdf
 /tools/risk-assessment/hispbrca_ram/ReadMe,/tools/risk-assessment/hispbrca_ram/ReadMe.pdf
 /fellowship-training/training-resources-for-fellows-and-staff/2015-rad-epi-course,/fellowship-training/training-resources-for-fellows-and-staff/rad-epi-course
+/news-events/spotlights/iib-tenure-track-spotlight,/about/organization/programs-ebp/iib/iib-tenure-track-spotlight
+/news-events/spotlights/reb-spotlight,/about/organization/programs-ebp/reb/reb-spotlight
+/news-events/spotlights/reb-tenure-track,/about/organization/programs-ebp/reb/reb-tenure-track
