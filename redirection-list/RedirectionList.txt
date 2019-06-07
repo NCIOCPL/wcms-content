@@ -21469,3 +21469,4 @@
 /grants-training/training/at-nci/scientists-community/volunteer-opportunities,/grants-training/training/at-nci/scientists-community/outreach-opportunities
 /nci/pediatric-adult-rare-tumor/research/rare-tumor-workshops/past-workshops/first-chordoma-clinic,/nci/pediatric-adult-rare-tumor/news/rare-tumor-news/first-chordoma-clinic
 /nci/pediatric-adult-rare-tumor/research/rare-tumor-workshops/past-workshops,/nci/pediatric-adult-rare-tumor/research/rare-tumor-workshops
+/research/areas/childhood/research-directions,/research/areas/childhood/fda-approved-drugs-childhood-cancers
