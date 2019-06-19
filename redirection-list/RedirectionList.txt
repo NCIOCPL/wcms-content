@@ -4132,7 +4132,7 @@
 /cancertopics/advanced-cancer/questions,/about-cancer/advanced-cancer/questions
 /cancertopics/advanced-cancer/research/end-of-life-care-discussions,/about-cancer/advanced-cancer/research/end-of-life-care-discussions
 /cancertopics/advanced-cancer/research/palliative-care-making-gains,/about-cancer/advanced-cancer/research/palliative-care-making-gains
-/cancertopics/advanced-cancer/research/training-talk-end-of-life-care,/about-cancer/advanced-cancer/research/training-talk-end-of-life-care
+/cancertopics/advanced-cancer/research/training-talk-end-of-life-care,/about-cancer/advanced-cancer/planning/end-of-life-pdq 
 /cancertopics/advanced-cancer/talking,/about-cancer/advanced-cancer/talking
 /cancertopics/aya,/types/aya
 /cancertopics/aya/coping,/types/aya
@@ -4348,7 +4348,7 @@
 /cancertopics/coping/physicaleffects,/about-cancer/treatment/side-effects
 /cancertopics/coping/physicaleffects/audiofiles,/about-cancer/treatment/side-effects
 /cancertopics/coping/physicaleffects/chemo-side-effects,/about-cancer/treatment/side-effects
-/cancertopics/coping/physicaleffects/pain-mx-survey0412,/about-cancer/treatment/research/pain-management
+/cancertopics/coping/physicaleffects/pain-mx-survey0412,/news-events/cancer-currents-blog/2019/cancer-pain-new-approaches
 /cancertopics/coping/questions,/about-cancer/advanced-cancer/questions
 /cancertopics/coping/research/aiding-cancer-caregivers,/about-cancer/coping/research/aiding-cancer-caregivers
 /cancertopics/coping/research/follow-up-for-long-term-survivors,/about-cancer/coping/research/follow-up-for-long-term-survivors
@@ -12510,7 +12510,7 @@
 /cancertopics/research/reducing-radiation-exposure,/about-cancer/causes-prevention/research/reducing-radiation-exposure
 /cancertopics/research/rise-of-robotic-surgery-for-prostate-cancer,/about-cancer/treatment/research/rise-robotic-surgery
 /cancertopics/research/targeted-nanoparticle-tested-in-patients-with-cancer,/about-cancer/treatment/research/targeted-nanoparticle
-/cancertopics/research/training-providers-and-patients-to-talk-about-end-of-life-care,/about-cancer/advanced-cancer/research/training-talk-end-of-life-care
+/cancertopics/research/training-providers-and-patients-to-talk-about-end-of-life-care,/about-cancer/advanced-cancer/planning/end-of-life-pdq 
 /cancertopics/research/young-cancer-survivors-take-part-in-oncofertility-research,/about-cancer/treatment/research/young-adults-fertility-research
 /cancertopics/research-updates/2013/CAR-T-Cells,/about-cancer/treatment/research/car-t-cells
 /cancertopics/research-updates/2013/dietrecs,/about-cancer/treatment/research/nutrition-during-after-treatment
@@ -12612,10 +12612,10 @@
 /cancertopics/treatment/research/mek,/about-cancer/treatment/research/mek
 /cancertopics/treatment/research/microtese-male-fertility-preservation,/about-cancer/treatment/research/microtese-male-fertility-preservation
 /cancertopics/treatment/research/natural-products-enhance-treatment,/about-cancer/treatment/research/natural-products-enhance-treatment
-/cancertopics/treatment/research/neuropathy,/about-cancer/treatment/research/neuropathy
+/cancertopics/treatment/research/neuropathy,/about-cancer/treatment/side-effects/nerve-problems
 /cancertopics/treatment/research/nutrition-during-after treatment,/about-cancer/causes-prevention/research/obesity-and-cancer-risk
 /cancertopics/treatment/research/older-patients,/about-cancer/treatment/research/older-patients
-/cancertopics/treatment/research/pain-management,/about-cancer/treatment/research/pain-management
+/cancertopics/treatment/research/pain-management,/news-events/cancer-currents-blog/2019/cancer-pain-new-approaches
 /cancertopics/treatment/research/patient-education-pain,/about-cancer/treatment/research/patient-education-pain
 /cancertopics/treatment/research/peripheral-neuropathy,/about-cancer/treatment/research/peripheral-neuropathy
 /cancertopics/treatment/research/placebo-clinical-trials,/about-cancer/treatment/research/placebo-clinical-trials
@@ -13000,7 +13000,7 @@
 /clinicaltrials/results/summary/2012/induction-failure-ALL0612,/types/leukemia/research/more-chemo-helps-all
 /clinicaltrials/results/summary/2012/national-polyp-study0312,/types/colorectal/research/colonoscopy-reduces-deaths
 /clinicaltrials/results/summary/2012/neoadjuvant-esophageal0612,/types/esophageal/research/preop-treatment-improves-survival
-/clinicaltrials/results/summary/2012/neuropathy0612,/about-cancer/treatment/research/neuropathy
+/clinicaltrials/results/summary/2012/neuropathy0612,/about-cancer/treatment/side-effects/nerve-problems
 /clinicaltrials/results/summary/2012/oligodendroglioma0212,/types/brain/research/predict-treatment-benefit
 /clinicaltrials/results/summary/2012/oligodendroglioma1112,/types/brain/research/chemotherapy-improves-survival
 /clinicaltrials/results/summary/2012/PD-1-immunotherapy0612,/types/lung/research/pd-1-immunotherapy
@@ -21469,4 +21469,13 @@
 /grants-training/training/at-nci/scientists-community/volunteer-opportunities,/grants-training/training/at-nci/scientists-community/outreach-opportunities
 /nci/pediatric-adult-rare-tumor/research/rare-tumor-workshops/past-workshops/first-chordoma-clinic,/nci/pediatric-adult-rare-tumor/news/rare-tumor-news/first-chordoma-clinic
 /nci/pediatric-adult-rare-tumor/research/rare-tumor-workshops/past-workshops,/nci/pediatric-adult-rare-tumor/research/rare-tumor-workshops
-/research/areas/childhood/research-directions,/research/areas/childhood/fda-approved-drugs-childhood-cancers
+/research/areas/childhood/research-directions,/research/areas/childhood/fda-approved-drugs-childhood-cancers 
+/about-cancer/treatment/research/neuropathy,/about-cancer/treatment/side-effects/nerve-problems
+/about-cancer/treatment/research/cardiotoxicity,/news-events/cancer-currents-blog/2018/cancer-treatment-heart-side-effects 
+/about-cancer/screening/research/shared-decision-making,/about-cancer/screening 
+/about-cancer/coping/research/home-care-symptom-management,/about-cancer/treatment/side-effects 
+/about-cancer/treatment/research/denosumab-prevent-bone-problems,/about-cancer/treatment/drugs/denosumab 
+/about-cancer/treatment/research/clinical-trial-referral,/about-cancer/treatment/clinical-trials/taking-part 
+/about-cancer/screening/research/questions-screening-audio,/about-cancer/screening/patient-screening-overview-pdq 
+/about-cancer/advanced-cancer/research/training-talk-end-of-life-care,/about-cancer/advanced-cancer/planning/end-of-life-pdq 
+/about-cancer/treatment/research/pain-management,/news-events/cancer-currents-blog/2019/cancer-pain-new-approaches

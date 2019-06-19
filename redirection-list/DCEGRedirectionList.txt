@@ -53,4 +53,4 @@
 /news-events/spotlights/iib-tenure-track-spotlight,/about/organization/programs-ebp/iib/iib-tenure-track-spotlight
 /news-events/spotlights/reb-spotlight,/about/organization/programs-ebp/reb/reb-spotlight
 /news-events/spotlights/reb-tenure-track,/about/organization/programs-ebp/reb/reb-tenure-track
-/research/cancer-types/breast-cancer/confluence-study-protocol,/research/cancer-types/breast-cancer/confluence-study-project,
+/research/cancer-types/breast-cancer/confluence-study-protocol,/research/cancer-types/breast-cancer/confluence-study-project
