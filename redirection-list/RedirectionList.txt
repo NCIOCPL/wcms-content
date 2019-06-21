@@ -21479,3 +21479,4 @@
 /about-cancer/screening/research/questions-screening-audio,/about-cancer/screening/patient-screening-overview-pdq 
 /about-cancer/advanced-cancer/research/training-talk-end-of-life-care,/about-cancer/advanced-cancer/planning/end-of-life-pdq 
 /about-cancer/treatment/research/pain-management,/news-events/cancer-currents-blog/2019/cancer-pain-new-approaches
+/braquiterapia,/espanol/cancer/tratamiento/tipos/radioterapia/braquiterapia
