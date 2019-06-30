@@ -23166,5 +23166,15 @@ researchandfunding/cancertraining/about/about,/grants-training/training/about
 /contact/contact-center,/contact
 /contactenos,/espanol/contactenos
 /redes-sociales,/espanol/redes-sociales
-
+/types/bladder/patient/about-bladder-cancer-pdq,/types/bladder/patient/bladder-treatment-pdq
+/types/gallbladder/patient/about-gallbladder-cancer-pdq,/types/gallbladder/patient/gallbladder-treatment-pdq
+/types/eye/patient/about-intraocular-melanoma-pdq,/types/eye/patient/intraocular-melanoma-treatment-pdq
+/types/liver/patient/about-adult-liver-cancer-pdq,/types/liver/patient/adult-liver-treatment-pdq
+/types/liver/patient/about-bile-duct-cancer-pdq,/types/liver/patient/bile-duct-treatment-pdq
+/types/liver/patient/about-child-liver-cancer-pdq,/types/liver/patient/child-liver-treatment-pdq
+/types/mesothelioma/patient/about-mesothelioma-pdq,/types/mesothelioma/patient/mesothelioma-treatment-pdq
+/types/pituitary/patient/about-pituitary-tumors-pdq,/types/pituitary/patient/pituitary-treatment-pdq
+/types/ovarian/patient/about-ovarian-cancer-pdq,/types/ovarian/patient/ovarian-epithelial-treatment-pdq
+/types/ovarian/patient/about-ovarian-germ-cell-tumors-pdq,/types/ovarian/patient/ovarian-germ-cell-treatment-pdq
+/types/ovarian/patient/about-ovarian-low-malignant-tumors-pdq,/types/ovarian/patient/ovarian-low-malignant-treatment-pdq
 
