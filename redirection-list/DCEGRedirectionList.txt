@@ -54,3 +54,7 @@
 /news-events/spotlights/reb-spotlight,/about/organization/programs-ebp/reb/reb-spotlight
 /news-events/spotlights/reb-tenure-track,/about/organization/programs-ebp/reb/reb-tenure-track
 /research/cancer-types/breast-cancer/confluence-study-protocol,/research/cancer-types/breast-cancer/confluence-study-project
+/staff-clinicians,/news-events/people-in-the-news/staff-clinicians
+/mirabello-nih-tenure,/news-events/people-in-the-news/mirabello-tenure
+/stewart-nih-tenure,/news-events/people-in-the-news/stewart-tenure
+/hpv16-e6,/news-events/research-news-highlights/2019/hpv16-e6
