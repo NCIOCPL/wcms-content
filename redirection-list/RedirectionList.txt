@@ -21174,7 +21174,7 @@
 /about-cancer/treatment/clinical-trials/search/printresults,/about-cancer/treatment/clinical-trials/search/options
 /espanol/tipos/cabeza-cuello/paciente/tratamiento-escamoso-metastasico-cuello-pdq,/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-escamoso-metastasico-cuello-pdq
 /espanol/tipos/cabeza-cuello/paciente/tratamiento-glandulas-salivales-pdq,/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-glandulas-salivales-pdq/espanol/tipos/cabeza-cuello/paciente/tratamiento-hipofaringe-pdq,/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-hipofaringe-pdq/espanol/tipos/cabeza-cuello/paciente/tratamiento-labio-boca-pdq,/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-labio-boca-pdq/espanol/tipos/cabeza-cuello/paciente/tratamiento-laringe-pdq,/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-laringe-pdq/espanol/tipos/cabeza-cuello/paciente/tratamiento-nasofaringe-pdq,/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-nasofaringe-pdq/espanol/tipos/cabeza-cuello/paciente/tratamiento-orofaringe-pdq,/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-orofaringe-pdq/espanol/tipos/cabeza-cuello/paciente/tratamiento-seno-paranasal-pdq	,/espanol/tipos/cabeza-cuello/paciente/adulto/tratamiento-seno-paranasal-pdq/espanol/tipos/cabeza-cuello/pro/tratamiento-escamoso-metastasico-cuello-pdq,/espanol/tipos/cabeza-cuello/pro/adulto/tratamiento-escamoso-metastasico-cuello-pdq/espanol/tipos/cabeza-cuello/pro/tratamiento-glandulas-salivales-pdq	/,espanol/tipos/cabeza-cuello/pro/adulto/tratamiento-glandulas-salivales-pdq/espanol/tipos/cabeza-cuello/pro/tratamiento-hipofaringe-pdq,/espanol/tipos/cabeza-cuello/pro/adulto/tratamiento-hipofaringe-pdq/espanol/tipos/cabeza-cuello/pro/tratamiento-laringe-pdq,/espanol/tipos/cabeza-cuello/pro/adulto/tratamiento-laringe-pdq/espanol/tipos/cabeza-cuello/pro/tratamiento-labio-boca-pdq,/espanol/tipos/cabeza-cuello/pro/adulto/tratamiento-labio-boca-pdq/espanol/tipos/cabeza-cuello/pro/tratamiento-nasofaringe-pdq,/espanol/tipos/cabeza-cuello/pro/adulto/tratamiento-nasofaringe-pdq/espanol/tipos/cabeza-cuello/pro/tratamiento-orofaringe-pdq,/espanol/tipos/cabeza-cuello/pro/adulto/tratamiento-orofaringe-pdq/espanol/tipos/cabeza-cuello/pro/tratamiento-seno-paranasal-pdq,/espanol/tipos/cabeza-cuello/pro/adulto/tratamiento-seno-paranasal-pdq
-/sites/ocnr,/sites/nano
+/sites/ocnr,/nano
 /sites/ocnr/about,/nano/about
 /sites/ocnr/about/contact,/nano/about/contact
 /sites/ocnr/about/factsheet,/nano/about/factsheet
@@ -23177,4 +23177,19 @@ researchandfunding/cancertraining/about/about,/grants-training/training/about
 /types/ovarian/patient/about-ovarian-cancer-pdq,/types/ovarian/patient/ovarian-epithelial-treatment-pdq
 /types/ovarian/patient/about-ovarian-germ-cell-tumors-pdq,/types/ovarian/patient/ovarian-germ-cell-treatment-pdq
 /types/ovarian/patient/about-ovarian-low-malignant-tumors-pdq,/types/ovarian/patient/ovarian-low-malignant-treatment-pdq
+/radioterapia,/espanol/cancer/tratamiento/tipos/radioterapia
+/news-events/cancer-currents-blog/biology,/news-events/cancer-currents-blog?topic=biology
+/news-events/cancer-currents-blog/cancer-risk,/news-events/cancer-currents-blog?topic=cancer-risk
+/news-events/cancer-currents-blog/childhood-cancer,/news-events/cancer-currents-blog?topic=childhood-cancer
+/news-events/cancer-currents-blog/clinical-trial-results,/news-events/cancer-currents-blog?topic=clinical-trial-results
+/news-events/cancer-currents-blog/disparities,/news-events/cancer-currents-blog?topic=disparities
+/news-events/cancer-currents-blog/fda-approvals,/news-events/cancer-currents-blog?topic=fda-approvals
+/news-events/cancer-currents-blog/global-health,/news-events/cancer-currents-blog?topic=global-health
+/news-events/cancer-currents-blog/leadership-expert-views,/news-events/cancer-currents-blog?topic=leadership-expert-views
+/news-events/cancer-currents-blog/prevention,/news-events/cancer-currents-blog?topic=prevention
+/news-events/cancer-currents-blog/prognosis,/news-events/cancer-currents-blog?topic=prognosis
+/news-events/cancer-currents-blog/screening-early-detection,/news-events/cancer-currents-blog?topic=screening-early-detection
+/news-events/cancer-currents-blog/survivorship-supportive-care,/news-events/cancer-currents-blog?topic=survivorship-supportive-care
+/news-events/cancer-currents-blog/technology,/news-events/cancer-currents-blog?topic=technology
+/news-events/cancer-currents-blog/treatment,/news-events/cancer-currents-blog?topic=treatment
 
