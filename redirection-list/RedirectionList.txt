@@ -23192,4 +23192,5 @@ researchandfunding/cancertraining/about/about,/grants-training/training/about
 /news-events/cancer-currents-blog/survivorship-supportive-care,/news-events/cancer-currents-blog?topic=survivorship-supportive-care
 /news-events/cancer-currents-blog/technology,/news-events/cancer-currents-blog?topic=technology
 /news-events/cancer-currents-blog/treatment,/news-events/cancer-currents-blog?topic=treatment
+/grants-training/policies-process/nci-policies/genomic-data,https://datascience.cancer.gov/data-sharing/genomic-data-sharing
 
