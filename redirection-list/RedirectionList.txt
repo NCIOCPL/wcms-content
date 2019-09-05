@@ -23193,4 +23193,16 @@ researchandfunding/cancertraining/about/about,/grants-training/training/about
 /news-events/cancer-currents-blog/technology,/news-events/cancer-currents-blog?topic=technology
 /news-events/cancer-currents-blog/treatment,/news-events/cancer-currents-blog?topic=treatment
 /grants-training/policies-process/nci-policies/genomic-data,https://datascience.cancer.gov/data-sharing/genomic-data-sharing
+/espanol/cambios-cuello-uterino,/espanol/publicaciones/educacion-para-pacientes/significado-cambios-en-cuello-uterino
+/espanol/cambios-senos,/espanol/publicaciones/educacion-para-pacientes/significado-cambios-en-los-senos
+/espanol/apoyo-para-cuidadores,/espanol/publicaciones/educacion-para-pacientes/como-cuidarse
+/espanol/padres-con-cancer,/espanol/publicaciones/educacion-para-pacientes/padres-con-cancer
+/espanol/tomese-su-tiempo,/espanol/publicaciones/educacion-para-pacientes/tomese-su-tiempo
+/espanol/siga-adelante,/espanol/publicaciones/educacion-para-pacientes/siga-adelante
+/espanol/quimioterapia-y-usted,/espanol/publicaciones/educacion-para-pacientes/quimioterapia-y-usted
+/espanol/consejos-de-alimentacion,/espanol/publicaciones/educacion-para-pacientes/consejos-de-alimentacion
+/espanol/control-del-dolor,/espanol/publicaciones/educacion-para-pacientes/control-del-dolor
+/espanol/radioterapia-y-usted,/espanol/publicaciones/educacion-para-pacientes/radioterapia-y-usted
+/espanol/opciones-de-cirugia,/espanol/publicaciones/educacion-para-pacientes/opciones-de-cirugia-seno
+/espanol/educacion-para-pacientes,/espanol/publicaciones/educacion-para-pacientes
 
