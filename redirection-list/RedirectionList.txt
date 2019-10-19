@@ -4383,11 +4383,6 @@
 /cancertopics/diagnosis-staging/symptoms,/about-cancer/diagnosis-staging/symptoms
 /cancertopics/diagnosis-staging/understanding-lab-tests-fact-sheet,/about-cancer/diagnosis-staging/understanding-lab-tests-fact-sheet
 /cancertopics/disparities,/research/areas/disparities
-/cancertopics/disparities/mmo,/news-events/media-resources/multicultural
-/cancertopics/disparities/mmo-hepb-asianamer-video,/news-events/media-resources/multicultural/webinars/mmo-hepb-asianamer-video
-/cancertopics/disparities/mmo-webinar-aian,/news-events/media-resources/multicultural/webinars/mmo-webinar-aian
-/cancertopics/disparities/mmo-webinar-clinical-trials-video,/news-events/media-resources/multicultural/webinars/mmo-webinar-clinical-trials-video
-/cancertopics/disparities/mmo-webinars,/news-events/media-resources/multicultural/webinars
 /cancertopics/druginfo/abirateroneacetate,/about-cancer/treatment/drugs/abirateroneacetate
 /cancertopics/druginfo/ABVD,/about-cancer/treatment/drugs/ABVD
 /cancertopics/druginfo/ABVE,/about-cancer/treatment/drugs/ABVE
@@ -21142,7 +21137,6 @@
 /news-events/media-resources/multicultural/lifelines/skin-cancer/,/types/skin
 /news-events/media-resources/multicultural/lifelines/survivorship/,/about-cancer/coping/survivorship
 /news-events/media-resources/multicultural/lifelines/treatment-coping/,/about-cancer/coping
-/news-events/media-resources/multicultural/lifelines/,/news-events/media-resources/multicultural
 /types/head-and-neck/patient/hypopharyngeal-treatment-pdq/,/types/head-and-neck/patient/adult/hypopharyngeal-treatment-pdq
 /types/head-and-neck/hp/hypopharyngeal-treatment-pdq/,/types/head-and-neck/hp/adult/hypopharyngeal-treatment-pdq
 /types/head-and-neck/patient/laryngeal-treatment-pdq/,/types/head-and-neck/patient/adult/laryngeal-treatment-pdq
@@ -22066,7 +22060,6 @@
 /ebooks,/publications/patient-education
 /espanol/recursos/hojas-informativas/deteccion-diagnostico/entendiendo-estadisticas,/espanol/cancer/diagnostico-estadificacion/pronostico
 /clinicaltrials/learningabout/treatment-trial-guide,/about-cancer/treatment/clinical-trials/search/trial-guide
-/mmo-webinars,/news-events/media-resources/multicultural/webinars
 /espanol/recursos/hojas-informativas/instituto/programa-centros-oncologicos,/espanol/investigacion/papel-del-nci/centros-oncologicos
 /policies/page2,/policies/privacy-security
 /policies/page3,/policies/accessibility
