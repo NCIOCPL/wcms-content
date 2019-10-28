@@ -82,6 +82,7 @@
 /news-events/research-news-highlights/2016/physical-activity-cancer,/news-events/research-news-highlights/2016/physical-activity-lower-risk
 /research/public-health-impact/low-intensity-smoking,/research/public-health-impact/tobacco-products
 /research/public-health-impact/smokeless-tobacco,/research/public-health-impact/tobacco-products
+/about/contact-dceg/local-map,/about/contact-dceg/visit-dceg
 /mdpl,/news-events/news/2019/mdpl-2019
 /aarp,/news-events/news/2019/aarp-25
 /cook-tenure,/news-events/news/2019/cook-tenure
