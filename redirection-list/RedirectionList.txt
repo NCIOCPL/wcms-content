@@ -23198,4 +23198,8 @@ researchandfunding/cancertraining/about/about,/grants-training/training/about
 /espanol/radioterapia-y-usted,/espanol/publicaciones/educacion-para-pacientes/radioterapia-y-usted
 /espanol/opciones-de-cirugia,/espanol/publicaciones/educacion-para-pacientes/opciones-de-cirugia-seno
 /espanol/educacion-para-pacientes,/espanol/publicaciones/educacion-para-pacientes
-
+/about-nci/legislative/history/national-cancer-act-1937,/about-nci/overview/history/national-cancer-act-1937
+/about-nci/legislative/history/national-cancer-act-1971,/about-nci/overview/history/national-cancer-act-1971
+/about-nci/legislative/history/public-health-service-act,/about-nci/overview/history/public-health-service-act
+/about-nci/legislative/history/legislative-timeline,/about-nci/overview/history/legislative-timeline
+/espanol/vph,/espanol/cancer/causas-prevencion/riesgo/germenes-infecciosos/vph-y-cancer
