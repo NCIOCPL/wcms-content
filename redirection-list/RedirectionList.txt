@@ -23203,3 +23203,4 @@ researchandfunding/cancertraining/about/about,/grants-training/training/about
 /about-nci/legislative/history/public-health-service-act,/about-nci/overview/history/public-health-service-act
 /about-nci/legislative/history/legislative-timeline,/about-nci/overview/history/legislative-timeline
 /espanol/vph,/espanol/cancer/causas-prevencion/riesgo/germenes-infecciosos/vph-y-cancer
+/pediatric-treatment,/publications/pdq/information-summaries/pediatric-treatment
