@@ -23207,3 +23207,8 @@ researchandfunding/cancertraining/about/about,/grants-training/training/about
 /targeted-therapies,/about-cancer/treatment/types/targeted-therapies
 /personalgenomics,/about-nci/organization/ccg/personal-genomics
 /espanol/centros-oncologicos,/espanol/investigacion/papel-del-nci/centros-oncologicos
+/types/adrenocortical/patient/child-adrenocortical-treament-pdq,/types/adrenocortical/patient/child-adrenocortical-treatment-pdq
+/types/stomach/patient/child-stomach-treament-pdq,/types/stomach/patient/child-stomach-treatment-pdq
+/types/pancreatic/patient/child-pancreatic-treament-pdq,/types/pancreatic/patient/child-pancreatic-treatment-pdq
+/types/colorectal/patient/child-colorectal-treament-pdq,/types/colorectal/patient/child-colorectal-treatment-pdq
+/types/soft-tissue-sarcoma/patient/child-gist-treament-pdq,/types/soft-tissue-sarcoma/patient/child-gist-treatment-pdq
