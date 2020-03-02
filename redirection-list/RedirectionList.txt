@@ -23204,3 +23204,15 @@ researchandfunding/cancertraining/about/about,/grants-training/training/about
 /about-nci/legislative/history/legislative-timeline,/about-nci/overview/history/legislative-timeline
 /espanol/vph,/espanol/cancer/causas-prevencion/riesgo/germenes-infecciosos/vph-y-cancer
 /pediatric-treatment,/publications/pdq/information-summaries/pediatric-treatment
+/espanol/centros-oncologicos,/espanol/investigacion/papel-del-nci/centros-oncologicos
+/targeted-therapies,/about-cancer/treatment/types/targeted-therapies
+/personalgenomics,/about-nci/organization/ccg/personal-genomics
+/espanol/centros-oncologicos,/espanol/investigacion/papel-del-nci/centros-oncologicos
+/types/adrenocortical/patient/child-adrenocortical-treament-pdq,/types/adrenocortical/patient/child-adrenocortical-treatment-pdq
+/types/stomach/patient/child-stomach-treament-pdq,/types/stomach/patient/child-stomach-treatment-pdq
+/types/pancreatic/patient/child-pancreatic-treament-pdq,/types/pancreatic/patient/child-pancreatic-treatment-pdq
+/types/colorectal/patient/child-colorectal-treament-pdq,/types/colorectal/patient/child-colorectal-treatment-pdq
+/types/soft-tissue-sarcoma/patient/child-gist-treament-pdq,/types/soft-tissue-sarcoma/patient/child-gist-treatment-pdq
+/about-nci/organization/crchd/diversity-training/cure/ds-guidelines-2019,/about-nci/organization/crchd/diversity-training/cure/ds-guidelines.pdf
+/about-nci/organization/crchd/diversity-training/cure/dsguidelines20,/about-nci/organization/crchd/diversity-training/cure/ds-guidelines.pdf
+
