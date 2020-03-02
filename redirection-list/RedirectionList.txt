@@ -23371,3 +23371,4 @@ researchandfunding/cancertraining/about/about,/grants-training/training/about
 /types/soft-tissue-sarcoma/patient/child-gist-treament-pdq,/types/soft-tissue-sarcoma/patient/child-gist-treatment-pdq
 /about-nci/organization/crchd/diversity-training/cure/ds-guidelines-2019,/about-nci/organization/crchd/diversity-training/cure/ds-guidelines.pdf
 /about-nci/organization/crchd/diversity-training/cure/dsguidelines20,/about-nci/organization/crchd/diversity-training/cure/ds-guidelines.pdf
+/monoclonalantibodies,/about-cancer/treatment/types/immunotherapy/monoclonal-antibodies
